@@ -19,7 +19,7 @@ from datetime import datetime, timedelta
 from argparse import ArgumentParser
 from scipy.interpolate import griddata
 
-sys.path.insert(0,'..')
+# sys.path.insert(0,'..')
 import settings
 from kernels import unbeaching, delete_particle
 
