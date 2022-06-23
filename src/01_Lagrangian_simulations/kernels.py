@@ -11,8 +11,7 @@ def unbeaching(particle, fieldset, time):
     (vel_u, vel_v) = fieldset.UV[time, particle.depth, particle.lat, particle.lon]
     
     if math.fabs(vel_u) < 1e-14 and math.fabs(vel_v) < 1e-14:
-        U_ub = fieldset.unbeach_U[time, particle.depth, particle.lat, particle.lon]
-        V_ub = fieldset.unbeach_V[time, particle.depth, particle.lat, particle.lon]
+        (U_ub, V_ub) = fieldset.UV_unbeach[time, particle.depth, particle.lat, particle.lon]
 
         dlon = U_ub * particle.dt
         dlat = V_ub * particle.dt  
