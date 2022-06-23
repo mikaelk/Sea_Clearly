@@ -24,7 +24,7 @@ import settings
 from kernels import unbeaching, delete_particle
 
 from create_masks import make_landmask,get_coastal_nodes_diagonal,get_shore_nodes_diagonal,create_displacement_field
-from utils.write_tools import to_netcdf
+from write_tools import to_netcdf
 
 
 class Lagrangian_simulation:
