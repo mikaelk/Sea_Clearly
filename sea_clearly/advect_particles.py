@@ -19,9 +19,9 @@ from datetime import datetime, timedelta
 from argparse import ArgumentParser
 from scipy.interpolate import griddata
 
-# sys.path.insert(0,'..')
 import settings
 from kernels import unbeaching, delete_particle
+import pdb
 
 from create_masks import make_landmask,get_coastal_nodes_diagonal,get_shore_nodes_diagonal,create_displacement_field
 from write_tools import to_netcdf
@@ -35,13 +35,13 @@ class Lagrangian_simulation:
         filenames = {'U': self.ufiles,
                      'V': self.vfiles}
         self.fieldset = FieldSet.from_netcdf(filenames, settings.VARS, settings.DIMS)
-        data_sample_u = xr.load_dataset(self.ufiles[0])
-        self.lons = data_sample_u['lon'].values
-        self.lats = data_sample_u['lat'].values
+        self.lons = self.fieldset.U.lon 
+        self.lats = self.fieldset.U.lat 
+        self.fieldset.add_constant('verbose_delete',1)
         self.settings = settings 
         
     def set_landmask(self,to_fieldset=False):        
-        outfile = os.path.join(settings.DIR_INPUT,settings.NAME_LANDMASK)
+        outfile = os.path.join(settings.DIR_INPUT,settings.DIR_UV,settings.NAME_LANDMASK)
         if os.path.exists(outfile):
             ds = xr.open_dataset(outfile)
             self.landmask = np.array(ds['mask_land'],dtype=bool) 
@@ -53,7 +53,7 @@ class Lagrangian_simulation:
             self.fieldset.add_field( Field('landMask',self.landmask,lon=self.lons,lat=self.lats,mesh='spherical') )
     
     def set_land_displacement(self,mag_u,to_fieldset=True):
-        outfile = os.path.join(settings.DIR_INPUT,settings.NAME_LAND_U)
+        outfile = os.path.join(settings.DIR_INPUT,settings.DIR_UV,settings.NAME_LAND_U)
         if os.path.exists(outfile):
             ds = xr.open_dataset(outfile)
             self.u_land = np.array(ds['land_current_u'],dtype=float)    
@@ -66,8 +66,6 @@ class Lagrangian_simulation:
         if to_fieldset:
             U_unbeach = Field('U_unbeach',self.u_land,lon=self.lons,lat=self.lats,fieldtype='U',mesh='spherical')
             V_unbeach = Field('V_unbeach',self.v_land,lon=self.lons,lat=self.lats,fieldtype='V',mesh='spherical')
-            # self.fieldset.add_field(U_unbeach)
-            # self.fieldset.add_field(V_unbeach)
             vectorField_unbeach = VectorField('UV_unbeach',U_unbeach,V_unbeach)
             self.fieldset.add_vector_field(vectorField_unbeach)
         
@@ -137,7 +135,7 @@ class Lagrangian_simulation:
         
         self.pset.execute(self.kernels,runtime=runtime,dt=dt,output_file=pfile,
                           verbose_progress=True,recovery={ErrorCode.ErrorOutOfBounds: delete_particle, ErrorCode.ErrorInterpolation: delete_particle})
-        
+           
         
 if __name__ == "__main__":
     p = ArgumentParser(description="""Parcels runs to construct global transition matrices""")
@@ -158,19 +156,19 @@ if __name__ == "__main__":
 
 
     simulation = Lagrangian_simulation(settings)
-    
-    simulation.set_release(date_start)
-    
+
     list_kernels = [AdvectionRK4]
-    
+
     if u_mag_land > 0:
         simulation.set_land_displacement(u_mag_land,to_fieldset=True)
         list_kernels.append(unbeaching)
-    
+
     if K_horizontal > 0:
         simulation.set_turbulent_diffusion(K_horizontal)
         list_kernels.append(DiffusionUniformKh)
-                        
+
+    simulation.set_release(date_start)
+
     simulation.set_kernels(list_kernels)
 
     output_filename = 'Test.nc'

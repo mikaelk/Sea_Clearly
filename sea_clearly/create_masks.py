@@ -31,6 +31,7 @@ def get_coastal_nodes(landmask):
     Output: 2D array array containing the coastal nodes, the coastal nodes are
             equal to one, and the rest is zero.
     """
+    landmask = landmask.astype(int)   
     mask_lap = np.roll(landmask, -1, axis=0) + np.roll(landmask, 1, axis=0)
     mask_lap += np.roll(landmask, -1, axis=1) + np.roll(landmask, 1, axis=1)
     mask_lap -= 4*landmask
@@ -50,6 +51,7 @@ def get_shore_nodes(landmask):
     Output: 2D array array containing the shore nodes, the shore nodes are
             equal to one, and the rest is zero.
     """
+    landmask = landmask.astype(int)   
     mask_lap = np.roll(landmask, -1, axis=0) + np.roll(landmask, 1, axis=0)
     mask_lap += np.roll(landmask, -1, axis=1) + np.roll(landmask, 1, axis=1)
     mask_lap -= 4*landmask
@@ -68,6 +70,7 @@ def create_displacement_field(landmask, mag_u=1., double_cell=False):
 
     Output: two 2D arrays, one for each camponent of the velocity.
     """
+    landmask = landmask.astype(int)   
     shore = get_shore_nodes(landmask)
     shore_d = get_shore_nodes_diagonal(landmask) # bordering ocean directly and diagonally
     shore_c = shore_d - shore                    # corner nodes that only border ocean diagonally
@@ -115,6 +118,7 @@ def get_coastal_nodes_diagonal(landmask):
     Output: 2D array array containing the coastal nodes, the coastal nodes are
             equal to one, and the rest is zero.
     """
+    landmask = landmask.astype(int)
     mask_lap = np.roll(landmask, -1, axis=0) + np.roll(landmask, 1, axis=0)
     mask_lap += np.roll(landmask, -1, axis=1) + np.roll(landmask, 1, axis=1)
     mask_lap += np.roll(landmask, (-1,1), axis=(0,1)) + np.roll(landmask, (1, 1), axis=(0,1))
@@ -137,6 +141,7 @@ def get_shore_nodes_diagonal(landmask):
     Output: 2D array array containing the shore nodes, the shore nodes are
             equal to one, and the rest is zero.
     """
+    landmask = landmask.astype(int)
     mask_lap = np.roll(landmask, -1, axis=0) + np.roll(landmask, 1, axis=0)
     mask_lap += np.roll(landmask, -1, axis=1) + np.roll(landmask, 1, axis=1)
     mask_lap += np.roll(landmask, (-1,1), axis=(0,1)) + np.roll(landmask, (1, 1), axis=(0,1))
