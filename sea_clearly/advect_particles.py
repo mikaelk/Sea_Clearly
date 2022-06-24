@@ -189,5 +189,8 @@ if __name__ == "__main__":
 
     simulation.set_kernels(list_kernels)
 
-    output_filename = 'Test.nc'
+    output_filename = 'advection.zarr'
     simulation.execute(date_start,date_end,dt_write,output_filename)
+    
+    
+    
