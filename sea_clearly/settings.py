@@ -33,11 +33,11 @@ NAME_LAND_U = 'land_displacement.nc'
 
 # Release of particles
 RELEASE_MODE = 'uniform'
-# release bounds can be set to None to release from min/max lon and lat of the numerical data
-DICT_RELEASE = {'lon_min': None,
+DICT_RELEASE = {'lon_min': None, #set uniform release bounds here, or set to None to use native grid bounds
                 'lon_max': None,
                 'lat_min': None,
                 'lat_max': None,
-                'dlon': 0.1,
+                'n_gridcell': 2, #set amount of particles released per gridcell both in lon and lat dir (i.e. total = n_gridcell*n_gridcell). Prioritized over dlon/dlat below
+                'dlon': 0.1, #spacing of uniform release grid. n_gridcell above is prioritized
                 'dlat': 0.1,
-                'remove_land': True}
+                'remove_land': True} #use landmask to remove particles on land

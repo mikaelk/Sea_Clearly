@@ -93,9 +93,25 @@ class Lagrangian_simulation:
             if dict_release['lat_max'] is None:
                 dict_release['lat_max'] = max(self.lats)    
                 
-            lon_release = np.arange(dict_release['lon_min'],dict_release['lon_max'],dict_release['dlon'])
-            lat_release = np.arange(dict_release['lat_min'],dict_release['lat_max'],dict_release['dlat'])
+            if dict_release['n_gridcell'] is None:
+                lon_release = np.arange(dict_release['lon_min'],dict_release['lon_max'],dict_release['dlon'])
+                lat_release = np.arange(dict_release['lat_min'],dict_release['lat_max'],dict_release['dlat'])
+            else:
+                # check that the grid spacing is uniform
+                assert np.all(np.isclose(self.lons[1:]-self.lons[:-1],self.lons[1]-self.lons[0])),'Lon spacing seems to vary, n_gridcell setting not supported yet'
+                assert np.all(np.isclose(self.lats[1:]-self.lats[:-1],self.lats[1]-self.lats[0])),'Lat spacing seems to vary, n_gridcell setting not supported yet'
+                dlon = abs(self.lons[1]-self.lons[0])
+                dlat = abs(self.lats[1]-self.lats[0])
+                lon_spacing = dlon / dict_release['n_gridcell']
+                lat_spacing = dlat / dict_release['n_gridcell']
+                lon_start = dict_release['lon_min'] + .5*lon_spacing
+                lat_start = dict_release['lat_min'] + .5*lat_spacing
+                lon_end = dict_release['lon_max'] - .5*lon_spacing
+                lat_end = dict_release['lat_max'] - .5*lat_spacing
+                lon_release = np.linspace(lon_start,lon_end,(len(self.lons)-1)*dict_release['n_gridcell'])
+                lat_release = np.linspace(lat_start,lat_end,(len(self.lats)-1)*dict_release['n_gridcell'])
             
+                print('Releasing %i particles per gridcell' % (dict_release['n_gridcell']**2))
             
             if dict_release['remove_land']:
                 self.set_landmask()
@@ -106,6 +122,8 @@ class Lagrangian_simulation:
                 n_particles = len(X_release[~land_mask_release])
                 lon_release = X_release[~land_mask_release].reshape([n_particles,1])
                 lat_release = Y_release[~land_mask_release].reshape([n_particles,1])
+                
+                print('Releasing %i particles in total' % len(lon_release))
                 
             self.pset = ParticleSet.from_list(self.fieldset, JITParticle, 
                                          lon=lon_release,
