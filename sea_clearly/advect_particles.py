@@ -98,8 +98,8 @@ class Lagrangian_simulation:
                 lat_release = np.arange(dict_release['lat_min'],dict_release['lat_max'],dict_release['dlat'])
             else:
                 # check that the grid spacing is uniform
-                assert np.all(np.isclose(self.lons[1:]-self.lons[:-1],self.lons[1]-self.lons[0])),'Lon spacing seems to vary, n_gridcell setting not supported yet'
-                assert np.all(np.isclose(self.lats[1:]-self.lats[:-1],self.lats[1]-self.lats[0])),'Lat spacing seems to vary, n_gridcell setting not supported yet'
+                assert np.all(np.isclose(self.lons[1:]-self.lons[:-1],self.lons[1]-self.lons[0], atol=0.001)),'Lon spacing seems to vary, n_gridcell setting not supported yet'
+                assert np.all(np.isclose(self.lats[1:]-self.lats[:-1],self.lats[1]-self.lats[0], atol=0.001)),'Lat spacing seems to vary, n_gridcell setting not supported yet'
                 dlon = abs(self.lons[1]-self.lons[0])
                 dlat = abs(self.lats[1]-self.lats[0])
                 lon_spacing = dlon / dict_release['n_gridcell']
