@@ -17,7 +17,7 @@ else:
     raise RuntimeError('Check socket hostname, and add folder paths to src/settings.py file')
 
 
-DIR_UV = 'CMEMS_MED/'
+DIR_UV = 'CMEMS_MED'
 
 PATTERN_U = '[2011-2015]*RFVL*'
 PATTERN_V = '[2011-2015]*RFVL*'
