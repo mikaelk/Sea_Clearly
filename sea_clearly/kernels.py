@@ -13,8 +13,9 @@ def unbeaching(particle, fieldset, time):
     if math.fabs(vel_u) < 1e-14 and math.fabs(vel_v) < 1e-14:
         (U_ub, V_ub) = fieldset.UV_unbeach[time, particle.depth, particle.lat, particle.lon]
 
-        dlon = U_ub * particle.dt
-        dlat = V_ub * particle.dt  
+        # positive displacement away from coast, also for backwards simulations: sim_type=-1 for backwards (+1 for forwards)
+        dlon = U_ub * particle.dt * fieldset.sim_type
+        dlat = V_ub * particle.dt * fieldset.sim_type
 
         particle.lon += dlon
         particle.lat += dlat
