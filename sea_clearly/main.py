@@ -11,6 +11,7 @@ import os,sys
 from datetime import datetime, timedelta
 import pandas as pd
 import subprocess
+from multiprocessing import Pool
 
 module_path = os.path.abspath(os.path.join('.'))
 if module_path not in sys.path:
@@ -30,6 +31,10 @@ if __name__ == "__main__":
     date_start_release = pd.Timestamp(args.date_start_release)
     date_end_release = pd.Timestamp(args.date_end_release)
     
+    if date_end_release < date_start_release: #for the pd.date_range to work, starting date should be smaller than end date
+        assert args.n_days<0, 'Do you want a backwards simulation? Set n_days to a negative value'
+        date_start_release, date_end_release = date_end_release, date_start_release
+    
     dates_release = pd.date_range(date_start_release,date_end_release,freq='D') #daily release
     
     n_parallel = 10
@@ -42,12 +47,18 @@ if __name__ == "__main__":
                     args.K_horizontal,args.dt_write,args.u_mag_land))
         print(str_cmd)
         strings_execute.append(str_cmd)
+  
+    def run_command(command):
+        subprocess.call(command, shell=True)
+    
+    pool = Pool(processes=n_parallel)
+    pool.map(run_command, strings_execute)
+
+#         if i1 % n_parallel == (n_parallel-1):
+#             procs = [ subprocess.Popen(i, shell=True, stdout=subprocess.PIPE) for i in strings_execute ]
+#             for p in procs:
+#                 for line in p.stdout: #the output of the first process is used as output for monitoring
+#                     print(line)
+#                 p.wait()
         
-        if i1 % n_parallel == (n_parallel-1):
-            procs = [ subprocess.Popen(i, shell=True, stdout=subprocess.PIPE) for i in strings_execute ]
-            for p in procs:
-                for line in p.stdout:
-                    print(line)
-                p.wait()
-        
-            strings_execute = []
+#             strings_execute = []

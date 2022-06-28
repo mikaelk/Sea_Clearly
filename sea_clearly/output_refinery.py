@@ -80,3 +80,27 @@ def output_refinery(data, X, Y, x, y):
 
     return data.where((data['lon'][:,0] >= x_range[xloc_idx-1]) & (data['lon'][:,0] < x_range[xloc_idx]) &
                        (data['lat'][:,0] >= y_range[yloc_idx-1]) & (data['lat'][:,0] < y_range[yloc_idx]),drop=True)
+
+
+def output_refinery_nearby(data, x, y, dlon=.05, dlat=.05):
+    """
+    The function selects the trajectories of the particles that are within dlon/dlat distance (square)
+    at the start of the simulation and drops the particles from the xarray dataset. 
+    
+    Parameters
+    ----------
+    data: xarray dataset
+        Specifically built for parcels outputs with variables 'trajectory', 'lat', and 'lon'
+    X, Y: Either a meshgrid 2D or a 1D array
+        Contians the coordinates of the grid.
+    x, y: float
+        Position 
+    Returns
+    -------
+    data_relevant: xarray dataset
+        xrray with containing the particles that are in a grid cell at the start of the simulation.
+    """
+    
+
+    return data.where((data['lon'][:,0] >= x-dlon) & (data['lon'][:,0] < x+dlon) &
+                       (data['lat'][:,0] >= y-dlat) & (data['lat'][:,0] < y+dlat),drop=True)

@@ -52,7 +52,7 @@ class Lagrangian_simulation:
         if to_fieldset:
             self.fieldset.add_field( Field('landMask',self.landmask,lon=self.lons,lat=self.lats,mesh='spherical') )
     
-    def set_land_displacement(self,mag_u,to_fieldset=True):
+    def set_land_displacement(self,mag_u,sim_type,to_fieldset=True):
         outfile = os.path.join(settings.DIR_INPUT,settings.DIR_UV,settings.NAME_LAND_U)
         if os.path.exists(outfile):
             ds = xr.open_dataset(outfile)
@@ -62,7 +62,15 @@ class Lagrangian_simulation:
             self.set_landmask()
             self.u_land, self.v_land = create_displacement_field(self.landmask,mag_u)        
             to_netcdf(outfile,[self.u_land, self.v_land],['land_current_u','land_current_v'],self.lons,self.lats,explanation='land current, pusing particles on land back to the sea, magnitude of 1')
-            
+        
+        # We still want displacement away from the coast in case of backwards simulations
+        if sim_type=='fwd':
+            self.fieldset.add_constant('sim_type',1)
+        elif sim_type=='bwd':
+            self.fieldset.add_constant('sim_type',-1)
+        else:
+            raise RuntimeError('Incorrect simulation type (bwd/fwd)')
+        
         if to_fieldset:
             U_unbeach = Field('U_unbeach',self.u_land,lon=self.lons,lat=self.lats,fieldtype='U',mesh='spherical')
             V_unbeach = Field('V_unbeach',self.v_land,lon=self.lons,lat=self.lats,fieldtype='V',mesh='spherical')
@@ -185,7 +193,7 @@ if __name__ == "__main__":
     list_kernels = [AdvectionRK4]
 
     if u_mag_land > 0:
-        simulation.set_land_displacement(u_mag_land,to_fieldset=True)
+        simulation.set_land_displacement(u_mag_land,sim_type,to_fieldset=True)
         list_kernels.append(unbeaching)
 
     if K_horizontal > 0:
