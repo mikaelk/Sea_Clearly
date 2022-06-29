@@ -151,3 +151,22 @@ def get_shore_nodes_diagonal(landmask):
     shore = shore.mask.astype('int')
 
     return shore
+
+
+def distance_to_shore(landmask, dx=1):
+    """Function that computes the distance to the shore. It is based in the
+    the `get_coastal_nodes` algorithm.
+
+    - landmask: the land mask dUilt using `make_landmask` function.
+    - dx: the grid cell dimension. This is a crude approxsimation of the real
+    distance (be careful).
+
+    Output: 2D array containing the distances from shore.
+    """
+    ci = get_coastal_nodes(landmask) # direct neighbours
+    dist = ci*dx                     # 1 dx away
+    
+    ci_d = get_coastal_nodes_diagonal(landmask) # diagonal neighbours
+    dist_d = (ci_d - ci)*np.sqrt(2*dx**2)       # sqrt(2) dx away
+        
+    return dist+dist_d

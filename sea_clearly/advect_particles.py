@@ -52,7 +52,7 @@ class Lagrangian_simulation:
         if to_fieldset:
             self.fieldset.add_field( Field('landMask',self.landmask,lon=self.lons,lat=self.lats,mesh='spherical') )
     
-    def set_land_displacement(self,mag_u,to_fieldset=True):
+    def set_land_displacement(self,mag_u,sim_type,to_fieldset=True):
         outfile = os.path.join(settings.DIR_INPUT,settings.DIR_UV,settings.NAME_LAND_U)
         if os.path.exists(outfile):
             ds = xr.open_dataset(outfile)
@@ -62,7 +62,15 @@ class Lagrangian_simulation:
             self.set_landmask()
             self.u_land, self.v_land = create_displacement_field(self.landmask,mag_u)        
             to_netcdf(outfile,[self.u_land, self.v_land],['land_current_u','land_current_v'],self.lons,self.lats,explanation='land current, pusing particles on land back to the sea, magnitude of 1')
-            
+        
+        # We still want displacement away from the coast in case of backwards simulations
+        if sim_type=='fwd':
+            self.fieldset.add_constant('sim_type',1)
+        elif sim_type=='bwd':
+            self.fieldset.add_constant('sim_type',-1)
+        else:
+            raise RuntimeError('Incorrect simulation type (bwd/fwd)')
+        
         if to_fieldset:
             U_unbeach = Field('U_unbeach',self.u_land,lon=self.lons,lat=self.lats,fieldtype='U',mesh='spherical')
             V_unbeach = Field('V_unbeach',self.v_land,lon=self.lons,lat=self.lats,fieldtype='V',mesh='spherical')
@@ -156,18 +164,25 @@ class Lagrangian_simulation:
            
         
 if __name__ == "__main__":
-    p = ArgumentParser(description="""Parcels runs to construct global transition matrices""")
+    p = ArgumentParser(description="""Baseline script to run parcels simulations. Particles are released at date_start, and advected until day_end""")
     p.add_argument('-K_horizontal', '--K_horizontal', default=0, type=float, help='amount of horizontal diffusive mixing [m2/s], 0 for none')
     p.add_argument('-date_start', '--date_start', default='2014-01-01-12', type=str, help='Advection starting date')    
-    p.add_argument('-date_end', '--date_end', default='2015-01-01-12', type=str, help='Advection end date')    
-    p.add_argument('-dt_write', '--dt_write', default=1, type=float, help='Output dt (keep small for smooth particle simulation plotting)')    
+    p.add_argument('-n_days', '--n_days', default=365, type=int, help='n days to advect the particles (can be negative)')    
+    p.add_argument('-dt_write', '--dt_write', default=1, type=float, help='Output dt (keep small for smooth particle simulation plotting)')  
     p.add_argument('-u_mag_land', '--u_mag_land', default=1, type=float, help='land current magnitude m/s')    
+    
+    #DONE: add n_days (instead of date_end)
+    #TODO: add repeat_dt argument
     
     args = p.parse_args()
 
     date_start = pd.Timestamp(args.date_start)
-    date_end = pd.Timestamp(args.date_end)
-
+    date_end = date_start + timedelta(args.n_days)
+    if date_end > date_start:
+        sim_type = 'fwd'
+    else:
+        sim_type = 'bwd'
+    
     dt_write = args.dt_write   
     K_horizontal = args.K_horizontal
     u_mag_land = args.u_mag_land
@@ -178,7 +193,7 @@ if __name__ == "__main__":
     list_kernels = [AdvectionRK4]
 
     if u_mag_land > 0:
-        simulation.set_land_displacement(u_mag_land,to_fieldset=True)
+        simulation.set_land_displacement(u_mag_land,sim_type,to_fieldset=True)
         list_kernels.append(unbeaching)
 
     if K_horizontal > 0:
@@ -189,7 +204,11 @@ if __name__ == "__main__":
 
     simulation.set_kernels(list_kernels)
 
-    output_filename = 'advection.zarr'
+    output_filename = ('_'.join([settings.DIR_UV,settings.RELEASE_MODE,sim_type,'%i_pergrid'%settings.DICT_RELEASE['n_gridcell']**2,
+                                  str(date_start).replace(' ','-'),str(date_end).replace(' ','-'),
+                                  '%2.2f'%settings.DICT_RELEASE['lon_min'],'%2.2f'%settings.DICT_RELEASE['lon_max'],
+                                  '%2.2f'%settings.DICT_RELEASE['lat_min'],'%2.2f'%settings.DICT_RELEASE['lat_max']])+'.zarr').replace('/','')
+    print('Running %s' % output_filename)
     simulation.execute(date_start,date_end,dt_write,output_filename)
     
     
