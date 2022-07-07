@@ -1,0 +1,418 @@
+,SITE_ID,COUNTRY,AREA_NAME,LATITUDE,LONGITUDE,POINT_INFO,SPECIES_DETAIL,FARM_TYPE,COAST_DIST,POSITION_COASTLINE,STATUS,PRODUCTION_METHOD,POINT_DEFINITION,PRODUCTION_STAGE,PURPOSE,OWNER_NAME
+0,FR_0044,France,Oulme,45.866216810000026,-1.1990019919999781,Polygon centroid,Oysters,Oysters,98.3455755615,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+1,FR_0105,France,Etier neuf,45.90642149300004,-1.2149181699999758,Polygon centroid,Oysters,Oysters,37.6348606887,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+2,FR_0155,France,Grand Village,45.86257690000008,-1.2103317739999397,Polygon centroid,Oysters,Oysters,624.90902524,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+3,FR_0001,France,Nord Oléron,45.946226307000074,-1.2365688709999745,Polygon centroid,Oysters,Oysters,207.829166159,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+4,FR_0082,France,La Beaudissière,45.923732794000045,-1.2311600309999449,Polygon centroid,Oysters,Oysters,76.5637379284,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+5,FR_0127,France,Lindron,45.79244328400006,-1.1196109059999344,Polygon centroid,Oysters,Oysters,1236.63435249,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+6,FR_0199,France,Seudre aval,45.775337258000036,-1.09594838299995,Polygon centroid,Oysters,Oysters,3820.76720471,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+7,FR_0054,France,Etaules,45.753650202000074,-1.074175200999946,Polygon centroid,Oysters,Oysters,6702.53706966,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+8,FR_0065,France,Bourcefranc,45.84361513500005,-1.1545366289999492,Polygon centroid,Oysters,Oysters,174.68214194,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+9,FR_0151,France,Marais de Nieulle sur Seudre,45.75318809400005,-1.0221034489999283,Polygon centroid,Oysters,Oysters,9979.45045075,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+10,FR_0197,France,Les Faulx,45.808936567000046,-1.1346233999999527,Polygon centroid,Oysters,Oysters,168.387952437,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+11,FR_0041,France,Mérignac,45.864155837000055,-1.1034932939999749,Polygon centroid,Oysters,Oysters,773.118028839,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+12,FR_0192,France,Seudre amont,45.739852951000046,-1.0397062369999617,Polygon centroid,Oysters,Oysters,9707.65322868,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+13,FR_0161,France,Brouage,45.87281544900003,-1.0795035039999448,Polygon centroid,Oysters,Oysters,1824.70584424,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+14,FR_0154,France,Coux,45.77127246400005,-1.1091886999999474,Polygon centroid,Oysters,Oysters,3451.3505726,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+15,FR_0097,France,Chaillevette,45.73809688100005,-1.0506038029999445,Polygon centroid,Oysters,Oysters,9220.78744989,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+16,FR_0190,France,Route neuve,45.78199067600008,-1.1310484779999683,Polygon centroid,Oysters,Oysters,1542.35161852,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+17,FR_0207,France,Seudre-amont,45.71397177100005,-0.9941924379999705,Polygon centroid,Oysters,Oysters,10566.6555751,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+18,FR_0070,France,Luzac,45.78054627300003,-1.1132061869999461,Polygon centroid,Oysters,Oysters,2445.56504569,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+19,FR_0004,France,Fouras,45.99900774100007,-1.122816266999962,Polygon centroid,Oysters,Oysters,386.672359904,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+20,FR_0027,France,Baie de Bellevue,45.94760498000005,-1.2168335009999396,Polygon centroid,"Mussels, Oysters",Mussels-Oysters,999.641039623,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+21,FR_0150,France,Mérignac - Lamouroux,45.900483671000075,-1.1367641369999433,Polygon centroid,Oysters,Oysters,3349.53426856,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+22,FR_0163,France,Bourgeois - Barat,45.81931058200007,-1.164629993999938,Polygon centroid,Oysters,Oysters,1634.84252888,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+23,FR_0179,France,Daire,45.87037295400006,-1.1547304609999287,Polygon centroid,Oysters,Oysters,866.587385408,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+24,FR_0193,France,Côte nord est Oléron,45.928799404000074,-1.1997919189999493,Polygon centroid,"Mussels, Oysters",Mussels-Oysters,2141.20704428,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+25,FR_0177,France,Saint Trojan,45.83770517500005,-1.190780340999936,Polygon centroid,Oysters,Oysters,751.913607415,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+26,FR_0081,France,Estrée,45.92444573600005,-1.1150561079999761,Polygon centroid,"Mussels, Oysters",Mussels-Oysters,2460.97312982,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+27,FR_0076,France,Ors - la Casse,45.88606081300003,-1.1744240489999243,Polygon centroid,Oysters,Oysters,1088.04258651,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+28,FR_0173,France,Bourgeois,45.81972878100004,-1.1614712619999636,Polygon centroid,Oysters,Oysters,1422.24090217,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+29,FR_0191,France,Ronce - Perquis,45.797540498000046,-1.1844562189999692,Polygon centroid,Oysters,Oysters,589.223598952,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+30,FR_0008,France,Les Palles,45.96288506500008,-1.117330967999976,Polygon centroid,"Mussels, Oysters",Mussels-Oysters,126.068049254,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+31,BG_0003,Bulgaria,n.a.,42.33999828300006,27.76210408700007,Polygon centroid,Mussels,Mussels,658.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+32,BG_0004,Bulgaria,n.a.,42.30032559800003,27.777670615000034,Polygon centroid,Mussels,Mussels,213.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+33,BG_0005,Bulgaria,n.a.,42.29300171500006,27.772701450000056,Polygon centroid,Mussels,Mussels,240.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+34,BG_0006,Bulgaria,n.a.,42.66486118100005,27.741111111000066,Polygon centroid,Mussels,Mussels,448.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+35,BG_0007,Bulgaria,n.a.,43.39548612200008,28.386097219000078,Polygon centroid,Mussels,Mussels,815.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+36,BG_0008,Bulgaria,n.a.,42.30250519800006,27.78287331100006,Polygon centroid,Mussels,Mussels,251.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+37,BG_0009,Bulgaria,n.a.,42.438028935000034,27.684010816000068,Polygon centroid,Mussels,Mussels,1389.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+38,BG_0010,Bulgaria,n.a.,43.396089274000076,28.257461074000048,Polygon centroid,Mussels,Mussels,1114.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+39,BG_0011,Bulgaria,n.a.,42.638145347000034,27.690568421000023,Polygon centroid,Mussels,Mussels,832.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+40,BG_0012,Bulgaria,n.a.,42.62932102100007,27.686879437000073,Polygon centroid,Mussels,Mussels,1135.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+41,BG_0013,Bulgaria,n.a.,42.335967819000075,27.774058274000026,Polygon centroid,Mussels,Mussels,116.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+42,BG_0014,Bulgaria,n.a.,43.32698614000003,28.077333328000066,Polygon centroid,Mussels,Mussels,613.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+43,BG_0015,Bulgaria,n.a.,43.303679300000056,28.064449852000052,Polygon centroid,Mussels,Mussels,825.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+44,BG_0016,Bulgaria,n.a.,42.18932687900008,27.84634637100004,Polygon centroid,Mussels,Mussels,266.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+45,BG_0017,Bulgaria,n.a.,43.24585899400006,28.04075685600003,Polygon centroid,Mussels,Mussels,858.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+46,BG_0018,Bulgaria,n.a.,43.38512037800007,28.380499935000046,Polygon centroid,Mussels,Mussels,1973.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+47,BG_0019,Bulgaria,n.a.,42.344126009000036,27.756083544000035,Polygon centroid,Mussels,Mussels,1091.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+48,BG_0020,Bulgaria,n.a.,43.40071526600008,28.38640828900003,Polygon centroid,Mussels,Mussels,391.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+49,BG_0021,Bulgaria,n.a.,43.40333334200005,28.375972214000058,Polygon centroid,Mussels,Mussels,415.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+50,BG_0022,Bulgaria,n.a.,43.39444449300004,28.395416784000076,Polygon centroid,Mussels,Mussels,387.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+51,BG_0023,Bulgaria,n.a.,42.29726979000003,27.78374177300003,Polygon centroid,Mussels,Mussels,710.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+52,BG_0024,Bulgaria,n.a.,42.38208154100005,27.72412146100004,Polygon centroid,Mussels,Mussels,347.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+53,BG_0025,Bulgaria,n.a.,43.37252790000008,28.412291795000044,Polygon centroid,Mussels,Mussels,1661.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+54,BG_0026,Bulgaria,n.a.,42.69814413600005,27.835656141000072,Polygon centroid,Mussels,Mussels,442.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+55,BG_0027,Bulgaria,n.a.,43.12007453100006,27.93804003300005,Polygon centroid,Mussels,Mussels,754.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+56,BG_0028,Bulgaria,n.a.,42.38569575900004,27.72990103500007,Polygon centroid,Mussels,Mussels,959.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+57,BG_0029,Bulgaria,n.a.,43.390654949000066,28.265427806000048,Polygon centroid,Mussels,Mussels,1984.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+58,BG_0030,Bulgaria,n.a.,43.396825539000076,28.365814242000056,Polygon centroid,Mussels,Mussels,1301.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+59,BG_0031,Bulgaria,n.a.,43.40368777900005,28.33827383600004,Polygon centroid,Mussels,Mussels,1137.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+60,BG_0032,Bulgaria,n.a.,43.39552221900004,28.33413224000003,Polygon centroid,Mussels,Mussels,2096.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+61,BG_0033,Bulgaria,n.a.,43.383390623000025,28.368636994000042,Polygon centroid,Mussels,Mussels,2719.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+62,BG_0034,Bulgaria,n.a.,43.37906970300003,28.396981460000063,Polygon centroid,Mussels,Mussels,1601.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+63,IT_0017,Italy,n.a.,39.409409882000034,9.613533498000038,Original,n.a.,n.a.,415.3559393009776,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Cooperativa tra Pescatori San Giovanni Scrl
+64,FR_0181,France,Ade-Menson,45.85826066100003,-1.1990274349999481,Polygon centroid,Oysters,Oysters,306.529309225,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+65,FR_0094,France,Ronce les Bains,45.799554974000046,-1.1807188149999774,Polygon centroid,Oysters,Oysters,700.481059246,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+66,FR_0111,France,Bonne Anse,45.68448540700007,-1.2116722849999633,Polygon centroid,Oysters,Oysters,516.049322501,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+67,FR_0224,France,Arguin,44.589224657000045,-1.250869507999937,Polygon centroid,Oysters,Oysters,541.506871265,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+68,FR_0225,France,Intra-bassin,44.68206501700007,-1.1760549369999467,Polygon centroid,Oysters,Oysters,1322.04874208,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+69,FR_0227,France,La Matelle,44.66565558700006,-1.1137687579999351,Polygon centroid,Oysters,Oysters,2008.73173478,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+70,FR_0228,France,Gorp,44.696979535000025,-1.1058541659999719,Polygon centroid,Oysters,Oysters,2930.27554347,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+71,FR_0218,France,Iles de Marseille,43.262850548000074,5.335163496000064,Polygon centroid,n.a.,n.a.,1961.00639081,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+72,FR_0220,France,Anse de Carteau Sud,43.38076123500008,4.882214865000037,Polygon centroid,n.a.,n.a.,1533.69424143,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+73,FR_0221,France,Gisement naturel,43.525458755000045,4.105663105000076,Polygon centroid,n.a.,n.a.,1606.64696054,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+74,FR_0223,France,Bande littorale de Port-Ambonne au feu ouest du brise lames exterieur du port des Quilles,43.34417838300004,3.5955992720000722,Polygon centroid,n.a.,n.a.,482.537694908,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+75,FR_0226,France,Bande littorale de Frontignan a Palavas,43.47143416000006,3.839409035000074,Polygon centroid,n.a.,n.a.,517.604075876,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+76,FR_0233,France,Lotissement conchylicole de Sete-Marseillan,43.30336934300004,3.604156587000034,Polygon centroid,n.a.,n.a.,3983.16896336,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+77,FR_0234,France,Au-dela de la bande littorale de la Corniche,43.38975933800003,3.6831573330000538,Polygon centroid,n.a.,n.a.,366.456473289,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+78,FR_0235,France,Partie exterieure des digues du Port de Sete,43.40162360000005,3.725007794000021,Polygon centroid,n.a.,n.a.,619.954481292,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+79,FR_0237,France,Lotissement conchylicole des Aresquiers,43.45298212900008,3.8774263330000736,Polygon centroid,n.a.,n.a.,4185.98558122,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+80,FR_0238,France,Etang de Vic et Etang des Moures,43.49363830900006,3.8325877160000346,Polygon centroid,n.a.,n.a.,1075.88666353,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+81,FR_0240,France,Zone A - Bouzigues-Loupian,43.432741272000044,3.640152431000047,Polygon centroid,n.a.,n.a.,1118.74278551,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+82,FR_0241,France,Zone B - Mèze Marseillan,43.382095623000055,3.5719803120000506,Polygon centroid,n.a.,n.a.,1149.55387417,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+83,FR_0242,France,Zone des eaux blanches,43.426226944000064,3.689917668000021,Polygon centroid,n.a.,n.a.,908.976329268,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+84,FR_0243,France,Crique de l'Angle: partie sud,43.44705021500005,3.6715391510000472,Polygon centroid,n.a.,n.a.,311.539265329,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+85,FR_0245,France,Zone 83-01,43.11041497900004,5.761489575000041,Polygon centroid,n.a.,n.a.,723.302747928,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+86,FR_0106,France,Zone 83-02,43.07769403800006,6.009097727000039,Polygon centroid,n.a.,n.a.,851.807109567,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+87,FR_0244,France,Zone 83-03,43.155732801000056,6.426037741000073,Polygon centroid,n.a.,n.a.,483.710433577,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+88,FR_0106,France,Zone 83-02,43.09788924600008,5.90933689700006,Polygon centroid,n.a.,n.a.,182.179560651,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+89,FR_0222,France,Etang de Salonique,43.51347786800005,4.142679775000033,Polygon centroid,n.a.,n.a.,403.653362191,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+90,FR_0219,France,Cap Morgiou à baie de la Ciotat,43.183937567000044,5.591512672000022,Polygon centroid,n.a.,n.a.,1625.89563352,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+91,FR_0217,France,Côte bleue,43.33291306800004,5.095678325000051,Polygon centroid,n.a.,n.a.,187.727445379,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+92,FR_0232,France,Etang du Prevost : partie propriete privee,43.527602572000035,3.9153368820000765,Polygon centroid,n.a.,n.a.,517.913150447,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+93,FR_0231,France,Etang du Prevost : partie propriete communale,43.524539212000036,3.9078582970000753,Polygon centroid,n.a.,n.a.,420.334009271,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+94,FR_0230,France,Etang d'Ingril : zone conchylicole (GIE des venericulteurs),43.446954781000045,3.7715615630000343,Polygon centroid,n.a.,n.a.,1623.78634955,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+95,FR_0229,France,Etang d'Ingril : partie nord,43.454375560000074,3.792918805000056,Polygon centroid,n.a.,n.a.,1241.89967613,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+96,FR_0239,France,Etang du Ponant,43.56432642300007,4.10407856300003,Polygon centroid,n.a.,n.a.,25.2712417233,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+97,FR_0236,France,Etang d'Ingril : partie sud,43.44492151000003,3.787091147000069,Polygon centroid,n.a.,n.a.,767.105743791,Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+98,FR_0025,France,Baie du Lazaret,43.08794095800005,5.905299462000073,Polygon centroid,n.a.,n.a.,522.948589892,At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+99,BG_0001,Bulgaria,n.a.,43.403333376000035,28.328680564000024,Polygon centroid,Mussels,Mussels,1464.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+100,BG_0002,Bulgaria,n.a.,43.39983372800003,28.30848615700006,Polygon centroid,Mussels,Mussels,1914.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+101,BG_0035,Bulgaria,n.a.,43.32132683100008,28.071498793000046,Polygon centroid,Mussels,Mussels,342.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+102,BG_0036,Bulgaria,n.a.,43.396880130000056,28.374801802000036,Polygon centroid,Mussels,Mussels,1134.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+103,BG_0037,Bulgaria,n.a.,43.39545839900006,28.283277808000037,Polygon centroid,Mussels,Mussels,1866.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+104,BG_0038,Bulgaria,n.a.,42.43459792500005,27.68960350100008,Polygon centroid,Mussels,Mussels,884.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+105,BG_0039,Bulgaria,n.a.,43.39153463700006,28.380589520000058,Polygon centroid,Mussels,Mussels,1446.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+106,BG_0040,Bulgaria,n.a.,42.69737504300008,27.86413889000005,Polygon centroid,Mussels,Mussels,366.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+107,BG_0041,Bulgaria,n.a.,42.69766667300007,27.877430556000036,Polygon centroid,Mussels,Mussels,364.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+108,BG_0042,Bulgaria,n.a.,43.31786884700006,28.069565788000034,Polygon centroid,Mussels,Mussels,405.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+109,BG_0043,Bulgaria,n.a.,42.64055556100004,27.709999994000043,Polygon centroid,Mussels,Mussels,583.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+110,BG_0044,Bulgaria,n.a.,43.324817618000054,28.091279523000026,Polygon centroid,Mussels,Mussels,1764.0,At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+111,IT_0065,Italy,n.a.,42.43792699200003,11.179888531000074,Original,n.a.,n.a.,880.5628906712991,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Gigas sco. Coop. A r.l.
+112,IT_0091,Italy,n.a.,39.24791277500003,9.046600394000052,Original,n.a.,n.a.,215.16954707106876,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Consorzio Ittico Santa Gilla
+113,IT_0101,Italy,n.a.,39.22619825800007,9.086188406000076,Original,n.a.,n.a.,315.23935974084,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mare Da Amare Scrl
+114,IT_0066,Italy,n.a.,39.209356538000065,9.096354173000066,Original,n.a.,n.a.,268.98209389222865,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Lo Squalo Scrl
+115,IT_0026,Italy,n.a.,39.330938993000075,9.592785670000069,Original,n.a.,n.a.,78.76824668760693,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Feraxi Scrl
+116,IT_0018,Italy,n.a.,38.26258706400006,15.622483656000043,Original,n.a.,n.a.,356.81008367007666,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,SACOM Srl
+117,IT_0015,Italy,n.a.,38.26856957500007,15.638505783000028,Original,n.a.,n.a.,411.34541818824664,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Bardetta
+118,IT_0032,Italy,n.a.,45.685950913000056,13.381658510000022,Original,n.a.,n.a.,0.8784758519064363,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori di Grado Scrl
+119,IT_0117,Italy,n.a.,40.825678554000035,14.055351365000035,Original,n.a.,n.a.,649.4862251513578,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Ittica Lago Fusaro Srl
+120,IT_0110,Italy,n.a.,40.93499385800004,14.030532311000059,Original,n.a.,n.a.,1431.1294345639665,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Giacobbe Scrl
+121,IT_0085,Italy,n.a.,40.791210885000055,14.071289724000053,Original,n.a.,n.a.,275.801855531288,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Miseno Mitili Scrl
+122,IT_0083,Italy,n.a.,40.93492205000007,14.032732453000051,Original,n.a.,n.a.,1586.9092830921395,Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Consorzio Acherusia Scrl
+123,IT_0111,Italy,n.a.,45.08724342800008,12.307255215000055,Original,n.a.,n.a.,430.3233968458437,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori Delta Veneto Az. Agricola
+124,IT_0090,Italy,n.a.,45.02187587900005,12.383975466000038,Original,n.a.,n.a.,690.6397655376617,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Vivamar Az. Agricola
+125,IT_0076,Italy,n.a.,44.94233389900006,12.548155007000048,Original,n.a.,n.a.,1406.1182804101984,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori Delta Padano Scrl
+126,IT_0077,Italy,n.a.,43.419995361000076,13.729997430000026,Original,n.a.,n.a.,4460.328338917453,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Adriacozze (di Greco Pasquale & C.) Snc
+127,IT_0069,Italy,n.a.,43.44000259400008,13.719997828000032,Original,n.a.,n.a.,4378.492218826445,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Cozze Mare Blu Scrl
+128,IT_0081,Italy,n.a.,43.35037587900007,13.766177091000031,Original,n.a.,n.a.,4577.65871185412,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Cozze Mare Pulito Scrl
+129,IT_0089,Italy,n.a.,45.015605341000025,12.386964847000058,Original,n.a.,n.a.,217.19136284460706,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mare Sol Srl
+130,IT_0079,Italy,n.a.,44.87645814700005,12.411224720000064,Original,n.a.,n.a.,1102.518467527146,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Consorzio Cooperative Pescatori Del Polesine O.P.
+131,IT_0074,Italy,n.a.,44.87445942800008,12.506541322000032,Original,n.a.,n.a.,1692.2855080258905,At sea,n.a.,n.a.,Farm,n.a.,n.a.,S. Giulia Scrl
+132,IT_0075,Italy,n.a.,43.70539477500006,13.338230710000062,Original,n.a.,n.a.,4757.878183163051,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitilconero Scrl
+133,IT_0072,Italy,n.a.,43.39999901900006,13.740004146000047,Original,n.a.,n.a.,4582.279590934308,At sea,n.a.,n.a.,Farm,n.a.,n.a.,COPAC (Cooperativa Pescatori Allevatori Civitanovese) Scrl
+134,IT_0073,Italy,n.a.,43.69195320600005,13.366477936000024,Original,n.a.,n.a.,4652.9950556025005,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Co.Pe.Mo. (Maricoltura Dorica) Scrl
+135,IT_0034,Italy,n.a.,45.76279287800003,13.585382709000044,Original,n.a.,n.a.,1403.7508391946585,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Marina 2000
+136,IT_0031,Italy,n.a.,45.76294786100004,13.601319622000062,Original,n.a.,n.a.,947.7988922239749,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Maricoltura Calasetta
+137,IT_0037,Italy,n.a.,45.754231041000025,13.641661697000075,Original,n.a.,n.a.,304.5468623110427,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ittiomar Scrl
+138,IT_0024,Italy,n.a.,45.74387196300006,13.657814402000042,Original,n.a.,n.a.,354.75629233822156,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Colmi Scrl
+139,IT_0039,Italy,n.a.,45.60280555000003,13.713749354000072,Original,n.a.,n.a.,471.37422468242727,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Laudamar
+140,IT_0038,Italy,n.a.,45.70379049500008,13.263424563000058,Original,n.a.,n.a.,425.2970888762433,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ittisan Scrl
+141,IT_0033,Italy,n.a.,45.60174204000003,13.710200573000066,Original,n.a.,n.a.,769.4659594694347,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Shoreline Scrl
+142,IT_0035,Italy,n.a.,45.74994607000008,13.650447229000065,Original,n.a.,n.a.,252.44339288837602,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Colmi Seconda Scrl
+143,IT_0047,Italy,n.a.,45.604458014000045,13.708196317000045,Original,n.a.,n.a.,849.8850325275556,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Geomar
+144,IT_0045,Italy,n.a.,40.487474244000055,17.237826659000064,Original,n.a.,n.a.,480.95467669575544,At sea,n.a.,n.a.,Farm,n.a.,n.a.,San Francesco Scrl
+145,IT_0044,Italy,n.a.,40.483983608000074,17.309684995000055,Original,n.a.,n.a.,963.0714130550186,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Poseidone Scrl
+146,IT_0036,Italy,n.a.,40.48823063200007,17.310086709000075,Original,n.a.,n.a.,1126.8145162640274,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Arcobaleno Scrl
+147,IT_0046,Italy,n.a.,40.48944868700005,17.262509375000036,Original,n.a.,n.a.,273.34033546869586,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mar Piccolo Scrl
+148,IT_0041,Italy,n.a.,45.70712740500005,13.219279879000055,Original,n.a.,n.a.,720.7391848424429,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Maricoltura Triestina Srl
+149,IT_0040,Italy,n.a.,45.739344594000045,13.665669681000054,Original,n.a.,n.a.,311.6498453744817,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Maricoltori Alto Adriatico Scrl
+150,IT_0043,Italy,n.a.,40.48026886100007,17.294109682000055,Original,n.a.,n.a.,1289.427402044281,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Leonardo Da Vinci Scrl
+151,IT_0042,Italy,n.a.,40.471563280000055,17.29359994300006,Original,n.a.,n.a.,334.15332251536955,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Angelo Amandonico Di
+152,IT_0003,Italy,n.a.,40.48984668300005,17.24111890300003,Original,n.a.,n.a.,511.57380240406377,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Luna Rossa Scrl
+153,IT_0009,Italy,n.a.,41.95021356800004,15.772172521000073,Original,n.a.,n.a.,3543.042847247533,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Uria O.P.M. Scrl
+154,IT_0001,Italy,n.a.,40.43238566300005,17.225148365000052,Original,n.a.,n.a.,837.1837713729783,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Gentile Angelo Mitilicoltura Di
+155,IT_0002,Italy,n.a.,40.484529629000065,17.23455314100005,Original,n.a.,n.a.,406.9183630363222,At sea,n.a.,n.a.,Farm,n.a.,n.a.,La Sciaia Scrl
+156,IT_0005,Italy,n.a.,40.48151759700005,17.232211756000027,Original,n.a.,n.a.,310.63319280465646,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ittica Cielo Azzurro Scrl
+157,IT_0016,Italy,n.a.,40.49693534200003,17.254982089000066,Original,n.a.,n.a.,478.0190356665764,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mar Grande Scrl
+158,IT_0007,Italy,n.a.,40.442372582000075,17.226003426000034,Original,n.a.,n.a.,1679.6008381910872,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Scarci Scrl
+159,IT_0006,Italy,n.a.,41.56000843500004,15.939897591000033,Original,n.a.,n.a.,3582.3100835763853,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Coltimar Scrl
+160,IT_0013,Italy,n.a.,41.94472926000003,15.69638612600005,Original,n.a.,n.a.,3349.7348885890838,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Aurelia Scrl
+161,IT_0012,Italy,n.a.,41.948095210000076,15.733970827000064,Original,n.a.,n.a.,3613.9206230665723,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Varano La Fenice Scrl
+162,IT_0014,Italy,n.a.,40.43073383300003,17.20330768200006,Original,n.a.,n.a.,1081.6779542736572,At sea,n.a.,n.a.,Farm,n.a.,n.a.,CRIAM Srl
+163,IT_0010,Italy,n.a.,41.92526656000007,15.529144435000035,Original,n.a.,n.a.,1349.8578513992227,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Jolly Pesca Scrl
+164,IT_0008,Italy,n.a.,40.42857402100003,17.216125048000038,Original,n.a.,n.a.,578.8734840515395,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Gigante Srl
+165,IT_0004,Italy,n.a.,40.429606844000034,17.210119217000056,Original,n.a.,n.a.,714.2976735681167,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Battista Antonio Di
+166,IT_0011,Italy,n.a.,40.43187362200007,17.206475228000045,Original,n.a.,n.a.,1052.358021043144,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitil 2000
+167,IT_0022,Italy,n.a.,40.47707808700005,17.27971764800003,Original,n.a.,n.a.,538.3214082646017,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Fago Ittica Tarantina Scrl
+168,IT_0021,Italy,n.a.,40.489328863000026,17.281896526000025,Original,n.a.,n.a.,385.1191872223587,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mare Vivo Scrl
+169,IT_0070,Italy,n.a.,40.47869460100003,17.266971225000077,Original,n.a.,n.a.,286.2503290029368,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitil Cantieri Scrl
+170,IT_0030,Italy,n.a.,40.48118795100004,17.28056714400003,Original,n.a.,n.a.,479.48137675274825,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Battista Giuseppe
+171,IT_0023,Italy,n.a.,42.75976335800004,14.017848620000052,Original,n.a.,n.a.,3470.490424140527,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Adriatica off - shore Srl
+172,IT_0020,Italy,n.a.,40.44053629500007,17.22205000400004,Original,n.a.,n.a.,1731.6591796636167,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitil Europa Scrl
+173,IT_0019,Italy,n.a.,40.487424893000025,17.320244341000034,Original,n.a.,n.a.,358.67166364314494,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Duomo Scrl
+174,IT_0105,Italy,n.a.,40.43421776100007,17.22313272300005,Original,n.a.,n.a.,1026.6741248089122,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ducapesc Srl
+175,IT_0118,Italy,n.a.,40.44599861000006,17.229442421000044,Original,n.a.,n.a.,1624.651305609713,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitil Mare Scrl
+176,IT_0104,Italy,n.a.,40.49569722500007,17.264644409000027,Original,n.a.,n.a.,198.58530764624692,At sea,n.a.,n.a.,Farm,n.a.,n.a.,La Scogliera Scrl
+177,IT_0102,Italy,n.a.,40.491012795000074,17.320344961000046,Original,n.a.,n.a.,526.9130186462801,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Giulia Scrl
+178,IT_0109,Italy,n.a.,40.48882850900003,17.294797518000053,Original,n.a.,n.a.,1079.9686263567241,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Il Cozzaro Nero Scrl
+179,IT_0108,Italy,n.a.,40.483438396000054,17.319730288000073,Original,n.a.,n.a.,164.3769455035304,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Il Vivaio Tarantino
+180,IT_0106,Italy,n.a.,40.48569779600007,17.263708551000036,Original,n.a.,n.a.,303.14966541916027,At sea,n.a.,n.a.,Farm,n.a.,n.a.,FratelliD'Andria Scrl
+181,IT_0107,Italy,n.a.,40.49591458900005,17.311018269000044,Original,n.a.,n.a.,524.5879392204107,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Numat Scrl
+182,IT_0098,Italy,n.a.,44.77050471800004,12.296965428000021,Original,n.a.,n.a.,2910.534105723847,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Tecnopesca Scrl
+183,IT_0099,Italy,n.a.,44.75329268100006,12.274423153000043,Original,n.a.,n.a.,2102.9350090586504,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Gente di Mare Scrl
+184,IT_0096,Italy,n.a.,44.86015780300005,12.499384493000036,Original,n.a.,n.a.,1705.6872708459923,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori Po Scrl
+185,IT_0097,Italy,n.a.,40.67060935100005,14.756369888000052,Original,n.a.,n.a.,171.43658386334513,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Campania Pesca Scrl
+186,IT_0103,Italy,n.a.,40.439748802000054,17.22677316000005,Original,n.a.,n.a.,1421.8766177856169,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Due Mari Scrl
+187,IT_0112,Italy,n.a.,44.73288662500005,12.287214726000059,Original,n.a.,n.a.,3431.301849623546,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Logonovo Scrl
+188,IT_0125,Italy,n.a.,45.09045571000007,12.307465251000053,Original,n.a.,n.a.,742.7716594070289,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Moceniga Pesca Az. Agricola
+189,IT_0100,Italy,n.a.,45.08914615400005,12.305644862000065,Original,n.a.,n.a.,676.1899136505333,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Biotapes Ss
+190,IT_0129,Italy,n.a.,40.791654494000056,14.082041349000065,Original,n.a.,n.a.,126.81262711298668,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Blu Marine Scrl
+191,IT_0127,Italy,n.a.,40.79127945700003,14.173413087000029,Original,n.a.,n.a.,698.6816697116395,At sea,n.a.,n.a.,Farm,n.a.,n.a.,C. Salvatore Scrl
+192,IT_0094,Italy,n.a.,44.906378603000064,12.528668487000061,Original,n.a.,n.a.,2144.9084057054874,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Villaggio Pescatori Scrl
+193,IT_0095,Italy,n.a.,44.89432138600006,12.522674707000021,Original,n.a.,n.a.,2172.0623115703643,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori di Pila O.P. Scrl
+194,IT_0092,Italy,n.a.,45.08908166400005,12.307391814000027,Original,n.a.,n.a.,602.5118753324597,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori Eridania Scrl
+195,IT_0093,Italy,n.a.,44.84430428200005,12.485057919000042,Original,n.a.,n.a.,1414.9071175501324,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitilicoltori Sacca degli Scardovari Scrl
+196,IT_0124,Italy,n.a.,40.79000096900006,14.350000579000039,Original,n.a.,n.a.,304.0385539424312,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Maria SS. di Porto Salvo Scrl
+197,IT_0126,Italy,n.a.,44.98769676400008,12.526442890000055,Original,n.a.,n.a.,412.64510030789603,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori dell'Adriatico Scrl
+198,IT_0123,Italy,n.a.,40.798190212000065,14.08888532800006,Original,n.a.,n.a.,388.10318689016214,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitil Montese
+199,IT_0133,Italy,n.a.,40.69812945500007,14.470152903000042,Original,n.a.,n.a.,146.30162708641313,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Santo Amore
+200,IT_0132,Italy,n.a.,45.022838173000025,12.387669334000066,Original,n.a.,n.a.,569.4241932957724,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Arsella Scrl
+201,IT_0131,Italy,n.a.,40.83001389300006,14.099784312000054,Original,n.a.,n.a.,181.03773280784895,At sea,n.a.,n.a.,Farm,n.a.,n.a.,CRCAP (Consorzio Regionale Cooperative Acquacoltura e Pesca) Scrl
+202,IT_0128,Italy,n.a.,45.02073164600006,12.387551214000041,Original,n.a.,n.a.,576.7931647049141,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Viro Snc
+203,IT_0130,Italy,n.a.,45.02170810100006,12.387605514000029,Original,n.a.,n.a.,620.4543832600029,At sea,n.a.,n.a.,Farm,n.a.,n.a.,RI.OS.S.S. (di Mancin Gianpietro & C.) Az. Agricola
+204,IT_0119,Italy,n.a.,40.79763069900008,14.089442973000075,Original,n.a.,n.a.,389.77005960846583,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitil Flegrea Scrl
+205,IT_0115,Italy,n.a.,40.79616357000003,14.090747284000031,Original,n.a.,n.a.,396.0273954397403,At sea,n.a.,n.a.,Farm,n.a.,n.a.,La Marea
+206,IT_0116,Italy,n.a.,40.796887079000044,14.090087770000025,Original,n.a.,n.a.,390.2436507506352,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori Subacquei Professionisti Scrl
+207,IT_0121,Italy,n.a.,40.79235248100008,14.084424497000043,Original,n.a.,n.a.,150.02255838833048,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ist. Reg. Sv. Es. Mit. Scrl
+208,IT_0122,Italy,n.a.,40.79153332900006,14.086952669000027,Original,n.a.,n.a.,123.75169801924342,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Bivalva Scrl
+209,IT_0113,Italy,n.a.,40.69552695200008,14.468204714000024,Original,n.a.,n.a.,189.82271337054695,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Il Pescatore Scrl
+210,IT_0120,Italy,n.a.,40.79124978500005,14.087562223000077,Original,n.a.,n.a.,102.47714323970813,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Assunta Mitili Scrl
+211,IT_0063,Italy,n.a.,43.212920852000025,13.855841655000063,Original,n.a.,n.a.,5467.27335995933,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitilpesca Scrl
+212,IT_0064,Italy,n.a.,44.06762538400005,12.667421284000056,Original,n.a.,n.a.,5187.53404209678,At sea,n.a.,n.a.,Farm,n.a.,n.a.,La Bussola Scrl
+213,IT_0114,Italy,n.a.,40.79175042500003,14.086374920000026,Original,n.a.,n.a.,132.226542425469,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ormeggiatori Luciani Scrl
+214,IT_0067,Italy,n.a.,45.023045237000076,12.380510583000046,Original,n.a.,n.a.,699.0235427674115,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Bluriver Az. Agricola Ss
+215,IT_0057,Italy,n.a.,40.75002206700003,14.440019863000032,Original,n.a.,n.a.,316.7313331087831,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Madonna del Rosario Scrl
+216,IT_0068,Italy,n.a.,45.09050634400006,12.305718339000066,Original,n.a.,n.a.,761.3920561549421,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Tirrena (di Boscolo S. & C.) Az. Agricola Ss
+217,IT_0058,Italy,n.a.,45.01835803300003,12.38377831200006,Original,n.a.,n.a.,593.624064666846,At sea,n.a.,n.a.,Farm,n.a.,n.a.,La Passera Scrl
+218,IT_0055,Italy,n.a.,44.07934123100006,12.65136433400005,Original,n.a.,n.a.,5002.39878221193,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Impresa di Maricoltura Adriamar
+219,IT_0056,Italy,n.a.,45.019199997000044,12.383825430000059,Original,n.a.,n.a.,675.6006414182041,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Albarella Scrl
+220,IT_0061,Italy,n.a.,44.25186126800003,12.457807727000045,Original,n.a.,n.a.,6508.61466345071,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Associazione Produttori Pesca Scrl
+221,IT_0062,Italy,n.a.,44.16793518000003,12.534441832000027,Original,n.a.,n.a.,5486.208232840295,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Marinara Scrl
+222,IT_0048,Italy,n.a.,45.020899420000035,12.38392122700003,Original,n.a.,n.a.,797.1388443751317,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Minerva Srl
+223,IT_0060,Italy,n.a.,45.08799266700004,12.307328899000026,Original,n.a.,n.a.,496.8357585894234,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Maiorca Scrl
+224,IT_0049,Italy,n.a.,45.01993037300008,12.387505949000058,Original,n.a.,n.a.,554.5085088953236,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Delta Mar Srl
+225,IT_0050,Italy,n.a.,44.15174570700003,12.549437364000028,Original,n.a.,n.a.,5368.459590628153,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitilcoop Scrl
+226,IT_0080,Italy,n.a.,45.02198670000007,12.380449009000074,Original,n.a.,n.a.,796.0050066439271,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Consorzio Delta Nord Scrl
+227,IT_0078,Italy,n.a.,45.04452371700006,12.376401857000076,Original,n.a.,n.a.,237.87893151628455,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Levante Az. Agricola Ss
+228,IT_0053,Italy,n.a.,43.248581141000045,13.83005431500004,Original,n.a.,n.a.,4518.034057564974,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Civitacozza Scrl
+229,IT_0054,Italy,n.a.,45.02395718200006,12.384092972000076,Original,n.a.,n.a.,466.8494764281818,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Pescatori Rosolina Scrl
+230,IT_0051,Italy,n.a.,44.19056136900008,12.515149564000069,Original,n.a.,n.a.,5939.054136052165,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Altamarea
+231,IT_0052,Italy,n.a.,43.50387673000006,13.68229651200005,Original,n.a.,n.a.,4386.2630750808785,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Nicolini Paolo
+232,IT_0084,Italy,n.a.,43.74775406400005,13.243991271000027,Original,n.a.,n.a.,3313.41278212183,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Sena Gallica Scrl
+233,IT_0082,Italy,n.a.,43.38111536300005,13.750132636000046,Original,n.a.,n.a.,4662.688356522772,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Punto Azzurro Snc
+234,IT_0088,Italy,n.a.,40.79063725300006,14.088550567000027,Original,n.a.,n.a.,99.27960286920269,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitilmare Scrl
+235,IT_0059,Italy,n.a.,40.789526281000065,14.090233520000027,Original,n.a.,n.a.,132.4105411244285,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Veronica Mitili Scrl
+236,IT_0086,Italy,n.a.,40.790266279000036,14.089032489000033,Original,n.a.,n.a.,107.09730062007147,At sea,n.a.,n.a.,Farm,n.a.,n.a.,S. Anna Scrl
+237,IT_0087,Italy,n.a.,43.282969507000075,13.810186159000068,Original,n.a.,n.a.,4625.281868928342,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Ciclone Scrl
+238,IT_0071,Italy,n.a.,42.47874376200008,14.263998015000027,Original,n.a.,n.a.,2632.4462752419113,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Mitilmare Srl - Ortona
+239,IT_0027,Italy,n.a.,45.760670778000076,13.593580900000063,Original,n.a.,n.a.,1417.1592327193948,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Chiatti Enrico
+240,IT_0029,Italy,n.a.,42.21387090600007,14.66083457700006,Original,n.a.,n.a.,2658.2658254896323,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Silmar Srl
+241,IT_0028,Italy,n.a.,42.11024261700004,14.760777561000054,Original,n.a.,n.a.,3039.2628252687387,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Acquachiara Srl
+242,IT_0025,Italy,n.a.,42.74376087600007,14.028296230000024,Original,n.a.,n.a.,3905.785986971681,At sea,n.a.,n.a.,Farm,n.a.,n.a.,Abruzzo Pescaturismo
+243,GR_0108,Greece,n.a.,40.41083333300003,22.61694444400007,Original,Mussels,Mussels,551.8594,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PAPADOPOULOS GEORGIOS KAI SOTIRA CHIRA PAPADOPOYLOU GEORGIOU
+244,GR_0110,Greece,n.a.,40.501388889000054,22.687500000000057,Original,Mussels,Mussels,2011.74976,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PAPAZIS GEORGIOS AND KOSMIDOY MARIA
+245,GR_0111,Greece,n.a.,40.50611111100005,22.68277777800006,Original,Mussels,Mussels,1668.38873,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"PAPAZIS IOANNIS, PAPAZIS PETROS, VERVITIS KONSTANTINOS AND VERGIDIS ALEXIOS"
+246,GR_0113,Greece,n.a.,40.50638888900005,22.678611111000066,Original,Mussels,Mussels,1849.51336,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PARASKEVAIDIS KONSTANTINOS
+247,GR_0114,Greece,n.a.,40.53666666600003,22.766666667000038,Original,Mussels,Mussels,2043.12384,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PASTROUMAS NIKOLAOS
+248,GR_0115,Greece,n.a.,40.42250000000007,22.61472222200007,Original,Mussels,Mussels,496.61532,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PASTROYMAS K. STAVROS
+249,GR_0116,Greece,n.a.,40.49527777800006,22.684166667000056,Original,Mussels,Mussels,1527.36589,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PERIFANOPOULOS DIMITRIOS
+250,GR_0117,Greece,n.a.,40.47972222200008,22.677500000000066,Original,Mussels,Mussels,1158.24775,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PERIFANOPOULOS STYLIANOS
+251,GR_0118,Greece,n.a.,40.50777777800005,22.681111111000064,Original,Mussels,Mussels,1594.40988,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PERIFANOPOYLOS STERGIOS
+252,GR_0119,Greece,n.a.,40.54722222200007,22.80222222200007,Original,Mussels,Mussels,1474.96035,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PERONTZIS LAZAROS
+253,GR_0120,Greece,n.a.,40.391944444000046,22.631666667000047,Original,Mussels,Mussels,1121.15538,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PETROPOULOU ELISAVET
+254,GR_0121,Greece,n.a.,40.48944444400007,22.68611111100006,Original,Mussels,Mussels,1509.9571,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PONTIKAS CHRISTOS
+255,GR_0123,Greece,n.a.,40.49638888900006,22.688888889000054,Original,Mussels,Mussels,1943.4341,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PONTIKAS NIKOLAOS
+256,GR_0124,Greece,n.a.,40.50972222200005,22.683333333000064,Original,Mussels,Mussels,1306.63337,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,POPTSHS KONSTANTINOS AND ROYZIOS GRIGORIOS
+257,GR_0125,Greece,n.a.,40.39472222200004,22.62583333300006,Original,Mussels,Mussels,688.5822,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,POSEIDON LTD.
+258,GR_0126,Greece,n.a.,40.37694444400006,22.643333333000044,Original,Mussels,Mussels,500.30879,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,POZSGAI EDINA
+259,GR_0127,Greece,n.a.,40.50777777800005,22.685555556000054,Original,Mussels,Mussels,1392.69202,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PRINTZIOS SOTIRIOS AND KLEISIARIS KONSTANTINOS
+260,GR_0129,Greece,n.a.,40.50722222200005,22.69055555600005,Original,Mussels,Mussels,1327.08962,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"ROUSOMANIS GEORGIOS, PRINTZIS SOTIRIOS, ROUSOMANIS FOTIOS AND PONTIKAS NIKOLAOS"
+261,GR_0130,Greece,n.a.,40.489166666000074,22.69055555600005,Original,Mussels,Mussels,1882.98823,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SARAFIS ATHANASIOS
+262,GR_0131,Greece,n.a.,40.50777777800005,22.675000000000068,Original,Mussels,Mussels,1820.58639,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SARAFIS ATHANASIOS
+263,GR_0132,Greece,n.a.,40.58111111100004,23.81666666700005,Original,Mussels,Mussels,172.302,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SIARLIS AG. GEORGIOS
+264,GR_0133,Greece,n.a.,40.55222222200007,22.780833333000032,Original,Mussels,Mussels,1572.36981,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SIROPOULOS GRIGORIOS AND KOYFALIS IOANNIS
+265,GR_0135,Greece,n.a.,40.42611111100007,22.612500000000068,Original,Mussels,Mussels,545.47438,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOKRATIS PANAGIOTIDIS G.P.
+266,GR_0136,Greece,n.a.,40.425555555000074,22.620833333000064,Original,Mussels,Mussels,1120.29527,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOKRATIS PANAGIOTIDIS G.P.
+267,GR_0137,Greece,n.a.,40.41138888900008,22.619722222000064,Original,Mussels,Mussels,790.60622,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOKRATIS PANAGIOTIDIS G.P.
+268,GR_0139,Greece,n.a.,40.44833333300005,22.61000000000007,Original,Mussels,Mussels,682.70564,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOULTZIS KYRIAKOS TOU STERGIOU
+269,GR_0140,Greece,n.a.,40.478055555000026,22.675000000000068,Original,Mussels,Mussels,1193.39255,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOULTZIS KYRIAKOS TOU STERGIOU
+270,GR_0141,Greece,n.a.,40.47333333300003,22.67916666700006,Original,Mussels,Mussels,1811.31619,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOULTZIS KYRIAKOS TOU STERGIOU
+271,GR_0142,Greece,n.a.,40.44805555500005,22.61472222200007,Original,Mussels,Mussels,1001.4526,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOULTZIS KYRIAKOS TOU STERGIOU
+272,GR_0143,Greece,n.a.,40.44694444400005,22.609722222000073,Original,Mussels,Mussels,576.73115,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOULTZIS KYRIAKOS TOU STERGIOU
+273,GR_0144,Greece,n.a.,40.42611111100007,22.61888888900006,Original,Mussels,Mussels,1019.3843,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOULTZIS KYRIAKOS TOU STERGIOU & GEORGIOS AVRAMIDIS TOU IOANNI
+274,GR_0145,Greece,n.a.,40.49388888900006,22.705555556000036,Original,Mussels,Mussels,1323.73853,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOUGIOUL???S STEFANOS AND KIR??ALIOTIS ANASTASIOS
+275,GR_0147,Greece,n.a.,40.549166666000076,22.773611111000037,Original,Mussels,Mussels,2090.80933,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"TERZIS EVAGGELOS, MPEMPIS ATHANASIOS, MPEMPIS THEMISTOKLIS"
+276,GR_0148,Greece,n.a.,40.48750000000007,22.687500000000057,Original,Mussels,Mussels,1613.54794,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,THEOFILOU ?. MARIANNA
+277,GR_0149,Greece,n.a.,40.55000000000007,22.777222222000034,Original,Mussels,Mussels,1942.42968,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TRIKALINOS GEORGIOS AND DIMOYDI AIKATERINI
+278,GR_0150,Greece,n.a.,40.38500000000005,22.63027777800005,Original,Mussels,Mussels,550.71447,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSAMALIDIS AL. GEORGIOS
+279,GR_0151,Greece,n.a.,40.49777777800006,22.68277777800006,Original,Mussels,Mussels,1582.21665,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSARAS SOTIRIOS
+280,GR_0152,Greece,n.a.,40.49638888900006,22.69944444400005,Original,Mussels,Mussels,1457.75769,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSARAS STERGIOS AND TSARAS SOTIRIOS
+281,GR_0153,Greece,n.a.,40.50388888900005,22.679722222000066,Original,Mussels,Mussels,1931.69518,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSARIDIS SOTIRIOS
+282,GR_0004,Greece,n.a.,40.89111111100004,24.591944444000035,Original,Mussels,Mussels,842.0045,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AFENTOULIS CHARALAMPOS
+283,GR_0007,Greece,n.a.,40.863055555000074,24.675000000000068,Original,Mussels,Mussels,1050.63099,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AGGELOS TSALKIDIS
+284,GR_0008,Greece,n.a.,40.87444444400006,24.611666667000065,Original,Mussels,Mussels,500.30797,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AGGELOS TSALKIDIS
+285,GR_0009,Greece,n.a.,40.87666666600006,24.608055556000068,Original,Mussels,Mussels,708.72049,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AGGELOS TSALKIDIS AND KIRIAKI PARCHARIDOY G.P.
+286,GR_0025,Greece,n.a.,40.86666666600007,24.67694444400007,Original,Mussels,Mussels,617.06398,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,BELEZI DIMITRA
+287,GR_0061,Greece,n.a.,40.87222222200006,24.608055556000068,Original,Mussels,Mussels,889.15995,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KALOGEROPOYLOS MICHALIS
+288,GR_0098,Greece,n.a.,40.986666666000076,25.12250000000006,Original,Mussels,Mussels,975.69394,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,OSTRAKA RODOPIS G.P.
+289,GR_0099,Greece,n.a.,40.98833333300007,25.11666666700006,Original,Mussels,Mussels,872.65562,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,OSTRAKA THRAKIS G.P.
+290,GR_0101,Greece,n.a.,40.992222222000066,25.125000000000057,Original,"Warty Venus, Grooved Carpet shell",Clams,449.69089,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,OSTRAKOKALLIERGEIES VISTONIKOU G.P.
+291,GR_0112,Greece,n.a.,40.985555555000076,25.12027777800006,Original,"Mussels, Oysters",Mussels-Oysters,1097.51062,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PAPTSIKIS-FRAINJEL MARKOS
+292,GR_0173,Greece,n.a.,40.86027777800007,24.653333333000035,Original,Mussels,Mussels,1045.76602,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ZAMPAKI PANAGIOTA
+293,GR_0174,Greece,n.a.,40.861666666000076,24.662777778000077,Original,Mussels,Mussels,1223.90643,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ZAMPAKI PANAGIOTA
+294,GR_0012,Greece,n.a.,38.88833333300005,22.658611111000027,Original,Mussels,Mussels,140.51611,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AKTEA G.P.
+295,GR_0024,Greece,n.a.,38.02444444400004,23.480277778000072,Original,Mussels,Mussels,155.73316,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ANDREAS PETROPOULOS
+296,GR_0028,Greece,n.a.,38.85000000000008,22.609166667000068,Original,Mussels,Mussels,1402.17905,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,CATHRIN FISH S.A.
+297,GR_0045,Greece,n.a.,38.87694444400006,22.603333333000023,Original,Mussels,Mussels,2372.51073,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ELENI CHARALAMPIDOU
+298,GR_0046,Greece,n.a.,38.873055555000064,22.588333333000037,Original,Mussels,Mussels,1347.32494,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ELMAC S.A.
+299,GR_0047,Greece,n.a.,39.01972222200004,20.768055556000036,Original,"Mussels, Oysters",Mussels-Oysters,1114.53333,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,FOTINI TSOTSIOU
+300,GR_0055,Greece,n.a.,39.65138888900003,20.115000000000066,Original,Mussels,Mussels,515.56172,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,GOGOLOY IOANNA & CO. G.P.
+301,GR_0058,Greece,n.a.,37.98305555500008,23.40944444400003,Original,Mussels,Mussels,297.01424,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,IOANNIS SEVASTIS
+302,GR_0087,Greece,n.a.,39.64722222200004,20.109722222000073,Original,Mussels,Mussels,729.79063,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MICHOPOULOS SPYRIDON
+303,GR_0097,Greece,n.a.,37.98472222200007,23.411388889000023,Original,Mussels,Mussels,225.05829,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,NIKOLAOS KALELIS
+304,GR_0102,Greece,n.a.,38.84277777800003,22.62222222200006,Original,"Mussels, Oysters",Mussels-Oysters,902.81689,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,OSTRAKOTROFIA MALLIAKOY S.A. (FLISVOS S.A)
+305,GR_0106,Greece,n.a.,38.99500000000006,20.943055556000047,Original,Mussels,Mussels,1130.73319,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PANAMVRAKIKI LTD
+306,GR_0107,Greece,n.a.,39.64944444400004,20.11222222200007,Original,Mussels,Mussels,809.58308,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PAPADIMITRIOU GEORGIOS
+307,GR_0109,Greece,n.a.,38.848611111000025,22.601388889000077,Original,Mussels,Mussels,937.82819,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PAPARAS CHRISTOS
+308,GR_0128,Greece,n.a.,39.563888889000054,20.131111111000052,Original,Mussels,Mussels,1428.88855,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,RALLI VASILIKI
+309,GR_0134,Greece,n.a.,39.56111111100006,20.131111111000052,Original,Mussels,Mussels,1351.83181,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SKENTOS ARISTEIDIS
+310,GR_0138,Greece,n.a.,38.875277778000054,22.600000000000023,Original,Mussels,Mussels,2261.21617,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SOTIRIA NAVRAZIDOU
+311,GR_0146,Greece,n.a.,39.64722222200004,20.115000000000066,Original,Mussels,Mussels,923.93059,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,STASINOS THOMAS
+312,GR_0166,Greece,n.a.,39.65361111100003,20.117500000000064,Original,Mussels,Mussels,198.88673,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TZAOS THEODOSIOS
+313,GR_0154,Greece,n.a.,40.50333333300006,22.69611111100005,Original,Mussels,Mussels,1330.33421,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"TSARIDIS SOTIRIOS, KOSMIDOY MARIA AND DARMOUSLIS ALEXANDROS"
+314,GR_0155,Greece,n.a.,40.48527777800007,22.689722222000057,Original,Mussels,Mussels,1818.62384,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSARIDIS THEODOROS
+315,GR_0156,Greece,n.a.,40.483333333000076,22.686944444000062,Original,Mussels,Mussels,1632.49021,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSARIDIS THEODOROS
+316,GR_0157,Greece,n.a.,40.47750000000008,22.684166667000056,Original,Mussels,Mussels,1731.94745,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSARIDIS THEODOROS
+317,GR_0158,Greece,n.a.,40.475833333000026,22.673333333000073,Original,Mussels,Mussels,1369.29488,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSERDAKIDIS DIOGENIS
+318,GR_0159,Greece,n.a.,40.45166666600005,22.61444444400007,Original,Mussels,Mussels,1210.42616,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSERDAKIDIS DIOGENIS AND TSERDAKIDIS NIKOLAOS
+319,GR_0160,Greece,n.a.,40.37583333300006,22.65388888900003,Original,Mussels,Mussels,703.88444,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSERTIKIDIS SYMEON
+320,GR_0161,Greece,n.a.,40.54888888900007,22.786666667000077,Original,Mussels,Mussels,1527.23242,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSIANIS STAVROS AND NTONTIS THEODOROS
+321,GR_0162,Greece,n.a.,40.49083333300007,22.68805555600005,Original,Mussels,Mussels,1692.05616,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSIARAS SPYROS
+322,GR_0163,Greece,n.a.,40.548055555000076,22.77083333300004,Original,Mussels,Mussels,2104.73615,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSIARAS SPYROS AND TSIARAS ALEKSANDROS
+323,GR_0164,Greece,n.a.,40.545833333000076,22.768333333000044,Original,Mussels,Mussels,2201.26077,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TSIARTSIAFIS GEORGIOS AND TSIARTSIAFIS STAMATIOS
+324,GR_0165,Greece,n.a.,40.77194444400004,23.812777778000054,Original,Mussels,Mussels,580.22511,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,TZAMPAZAKIS ALEKSANDROS
+325,GR_0167,Greece,n.a.,40.16166666600003,22.557222222000064,Original,Mussels,Mussels,531.35983,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,VASILEIOS ARG. DIMOYDIS
+326,GR_0168,Greece,n.a.,40.50638888900005,22.694722222000053,Original,Mussels,Mussels,1247.6003,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"VERGIDIS MICHAIL, KOGIAS FOTIOS, MPATSOKIS PAULOS AND FOTOPOULOS THEODOROS"
+327,GR_0169,Greece,n.a.,40.50055555500006,22.695555556000045,Original,Mussels,Mussels,1484.71497,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"VITIS KONSTANTINOS, KLISIARIS DIMITRIOS AND KARAKIZIS IOANNIS"
+328,GR_0170,Greece,n.a.,40.44944444400005,22.606388889000073,Original,Mussels,Mussels,567.06108,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,XENIDIS N. PRODROMOS AND IOANNOU G. GEORGIA
+329,GR_0001,Greece,n.a.,40.47277777800008,22.67472222200007,Original,Mussels,Mussels,1427.63175,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AKRIVOPOULOS CHRISTOS AND ANAGNOSTOPOULOS DIMITRIOS
+330,GR_0005,Greece,n.a.,40.37611111100006,22.645555556000033,Original,Mussels,Mussels,484.71059,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AFOI DRAGANI
+331,GR_0006,Greece,n.a.,40.37444444400006,22.65027777800003,Original,Mussels,Mussels,463.45021,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AGGELAKIS K. DIMOSTHENIS
+332,GR_0010,Greece,n.a.,40.54444444400008,22.765555556000038,Original,Mussels,Mussels,1942.94149,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AGROTRUST S.A.
+333,GR_0011,Greece,n.a.,40.528333333000035,22.76333333300005,Original,Mussels,Mussels,1368.10284,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"AKRIVOPOULOS THEMISTOKLIS, VAMVAKAS STAYROS, FAFAS STAMATIOS AND CHAGIMITAKOS IOANNIS"
+334,GR_0013,Greece,n.a.,40.43916666600006,22.618333333000066,Original,Mussels,Mussels,1064.37085,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEKSANDRIDIS IORDANIS
+335,GR_0014,Greece,n.a.,40.43166666600007,22.612777778000066,Original,Mussels,Mussels,605.50976,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEKSANDRIDIS IORDANIS
+336,GR_0015,Greece,n.a.,40.45416666600005,22.61111111100007,Original,Mussels,Mussels,1121.52227,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEKSANDRIDIS IORDANIS
+337,GR_0016,Greece,n.a.,40.55083333300007,22.788888889000077,Original,Mussels,Mussels,1241.99604,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEXANDROS DARMOYSLIS LTD. (FRUTTI DI MARE)
+338,GR_0017,Greece,n.a.,40.47555555500003,22.67694444400007,Original,Mussels,Mussels,1513.29703,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEXANDROS DARMOYSLIS LTD. (FRUTTI DI MARE)
+339,GR_0018,Greece,n.a.,40.50055555500006,22.699166667000043,Original,Mussels,Mussels,1203.99157,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEXANDROS DARMOYSLIS LTD. (FRUTTI DI MARE)
+340,GR_0019,Greece,n.a.,40.404444444000035,22.62000000000006,Original,Mussels,Mussels,497.00433,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ALEXANDROS DARMOYSLIS LTD. (FRUTTI DI MARE)
+341,GR_0020,Greece,n.a.,40.55861111100006,23.841944444000035,Original,Mussels,Mussels,130.43637,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ANASTASIOU VASILEIOS
+342,GR_0021,Greece,n.a.,40.555000000000064,23.874444444000062,Original,Mussels,Mussels,161.0952,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ANASTASIOU VASILEIOS
+343,GR_0022,Greece,n.a.,40.557222222000064,23.87027777800006,Original,Mussels,Mussels,141.60636,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ANASTASIOU VASILEIOS
+344,GR_0023,Greece,n.a.,40.559444444000064,23.850000000000023,Original,Mussels,Mussels,165.48342,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ANASTASIOU VASILEIOS & CO G.P.
+345,GR_0026,Greece,n.a.,40.493611111000064,22.70861111100004,Original,Mussels,Mussels,1224.21337,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,BLOUCHOUGIS NIKOLAOS KAI ROUZIOS GRIGORIOS
+346,GR_0027,Greece,n.a.,40.47111111100003,22.672777778000068,Original,Mussels,Mussels,1235.41349,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,BLOUCHOUTZIS NIKOLAOS
+347,GR_0029,Greece,n.a.,40.387500000000045,22.623888889000057,Original,Mussels,Mussels,305.03226,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,CHAGIPASXALIS ATHANASIOS
+348,GR_0030,Greece,n.a.,40.42888888900006,22.61694444400007,Original,Mussels,Mussels,953.29777,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,CHARTABILAS GRIGORIOS & ALEKSANDROS MATSKAS
+349,GR_0031,Greece,n.a.,40.53972222200008,22.764722222000046,Original,Mussels,Mussels,1846.4549,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,CHARTAMPILAS GRIGORIOS TOY APOSTOLOY AND CHARTAMPILAS GRIGORIOS TOY STAYROY
+350,GR_0032,Greece,n.a.,40.43916666600006,22.613888889000066,Original,Mussels,Mussels,693.13196,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,CHOROZIDOY CHRISOULA TOY GERMANOY
+351,GR_0033,Greece,n.a.,40.42611111100007,22.61472222200007,Original,Mussels,Mussels,720.94644,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DARMOYSLIS ALEXANDROS, KOYLOYKOYRIOTIS CHRISTOS AND MICHAIL GEORGIEV"
+352,GR_0034,Greece,n.a.,40.37555555500006,22.647777778000034,Original,Mussels,Mussels,503.88764,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+353,GR_0035,Greece,n.a.,40.442222222000055,22.614166667000063,Original,Mussels,Mussels,683.65623,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+354,GR_0036,Greece,n.a.,40.469166666000035,22.67472222200007,Original,Mussels,Mussels,1398.98733,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+355,GR_0037,Greece,n.a.,40.38777777800004,22.62361111100006,Original,Mussels,Mussels,293.04647,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+356,GR_0038,Greece,n.a.,40.47500000000008,22.681944444000067,Original,Mussels,Mussels,1797.41902,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+357,GR_0039,Greece,n.a.,40.44722222200005,22.61583333300007,Original,Mussels,Mussels,1028.84016,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+358,GR_0040,Greece,n.a.,40.37500000000006,22.64500000000004,Original,Mussels,Mussels,354.14988,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"DIMOUDIS, BROS S.A."
+359,GR_0041,Greece,n.a.,40.54194444400008,22.76527777800004,Original,Mussels,Mussels,1887.86822,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,DIMOYDI AGATHOULA AND TRIKALINOS GEORGIOS
+360,GR_0042,Greece,n.a.,40.49722222200006,22.70194444400005,Original,Mussels,Mussels,1241.58868,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,DIMOYDIS GEORGIOS AND MIKIROZIS CHARALAMPOS
+361,GR_0043,Greece,n.a.,40.51000000000005,22.67916666700006,Original,Mussels,Mussels,1526.95036,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,DIMOYDIS GEORGIOS AND MIKIROZIS CHARALAMPOS
+362,GR_0044,Greece,n.a.,40.39166666600005,22.629444444000058,Original,Mussels,Mussels,944.47226,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,DRAGANIS ANASTASIOS
+363,GR_0048,Greece,n.a.,40.43916666600006,22.860555556000065,Original,Mussels,Mussels,233.05293,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,GAITANIS STAYROS
+364,GR_0049,Greece,n.a.,40.54638888900007,22.80638888900006,Original,Mussels,Mussels,1667.55146,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"GAZEPIS GRIGORIOS, DIMOUDIS ATHANASIOS, KOUTROUTSIOS EVAGGELOS, KOUTROUTSIOS IOANNIS, POUGATSIAS KON/NOS AND PARASCHOS KON/NOS"
+365,GR_0050,Greece,n.a.,40.43361111100006,22.612500000000068,Original,Mussels,Mussels,608.31104,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,GEORGIADIS EV. GEORGIOS
+366,GR_0051,Greece,n.a.,40.44166666600006,22.618611111000064,Original,Mussels,Mussels,1058.81367,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,GEORGIOS ARG. DIMOYDIS
+367,GR_0052,Greece,n.a.,40.386388889000045,22.62805555600005,Original,Mussels,Mussels,494.09553,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,GEORGIOS TSAMALIDIS-ILIAS DASKALOPOULOS-STERGIOS DASKALOPOULOS
+368,GR_0053,Greece,n.a.,40.504722222000055,22.675277778000066,Original,Mussels,Mussels,1744.49141,At sea,Active,n.a.,Farm,n.a.,n.a.,"GIAGIAS ELEFTHERIOS, VITIS STERGIOS AND PAPAZIS IOANNIS"
+369,GR_0054,Greece,n.a.,40.40833333300003,22.620833333000064,Original,Mussels,Mussels,814.09006,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,GLARA CH. DESPINA
+370,GR_0056,Greece,n.a.,40.526111111000034,22.763611111000046,Original,Mussels,Mussels,1233.87287,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"GOUTZIAMARLIS GEORGIOS, GOUTZIAMRLIS KON/NOS, GOUTZIAMARLIS NESTORAS AND PAPADOPOULOS NIKOLAOS"
+371,GR_0057,Greece,n.a.,40.39250000000004,22.624444444000062,Original,Mussels,Mussels,550.9128,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,IOANNIDIS K. STYLIANOS
+372,GR_0059,Greece,n.a.,40.36583333300007,22.710000000000036,Original,Mussels,Mussels,4110.56618,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KALKETINIDOY A. EYGENIA
+373,GR_0060,Greece,n.a.,40.47750000000008,22.680000000000064,Original,Mussels,Mussels,1481.13171,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KALKETINIDOY ?. KALLIOPI
+374,GR_0062,Greece,n.a.,40.55111111100007,22.792500000000075,Original,Mussels,Mussels,1079.50148,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"KANTZOURAS EVAGGELOS, DODIS IOANNIS, DIMOUDI BROS S.A. AND TSARTSAFIS ARGYRIOS"
+375,GR_0063,Greece,n.a.,40.49305555500007,22.68611111100006,Original,Mussels,Mussels,1584.68259,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KAPAS FILIPOPOULOS VASILEIOS
+376,GR_0064,Greece,n.a.,40.50277777800005,22.677500000000066,Original,Mussels,Mussels,1731.2393,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KAPAS FILIPOPOULOS VASILEIOS
+377,GR_0065,Greece,n.a.,40.43916666600006,22.619444444000067,Original,Mussels,Mussels,1157.78612,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KAVAKLIOTIS G.P.
+378,GR_0066,Greece,n.a.,40.530555555000035,22.76750000000004,Original,Mussels,Mussels,1800.85771,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KELPEKIS THOMAS AND KELPEKIS EVAGGELOS
+379,GR_0067,Greece,n.a.,40.39388888900004,22.630833333000055,Original,Mussels,Mussels,1100.64887,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOGOLAS KONSTANTINOS AND VEROPOULOS K. IOANNIS
+380,GR_0068,Greece,n.a.,40.38805555500005,22.62805555600005,Original,Mussels,Mussels,611.12024,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOGOLAS ZAF. KONSTANTINOS
+381,GR_0069,Greece,n.a.,40.43638888900006,22.611388889000068,Original,Mussels,Mussels,503.77017,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOLIAPIDIS ILIAS
+382,GR_0070,Greece,n.a.,40.42027777800007,22.619444444000067,Original,Mussels,Mussels,773.012,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KONSTANTINOS & DIMITRIOS KOYTOUPAS G.P.
+383,GR_0071,Greece,n.a.,40.533888889000025,22.767222222000044,Original,Mussels,Mussels,1999.95072,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"KORNIOTIS NIKOLAOS, MPEMPIS DIMITRIS, MPOYKOYVALAS DIONYSIOS, TSIARAS SPYRIDONAS AND CHALIMAS THEODOROS"
+384,GR_0072,Greece,n.a.,40.41916666600008,22.61666666700006,Original,Mussels,Mussels,513.59506,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOULOUKOURIOTIS CHRISTOS & KOLIAPIDIS HLIAS
+385,GR_0073,Greece,n.a.,40.45250000000004,22.607500000000073,Original,Mussels,Mussels,761.24193,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOUTOUPAS KONSTANTINOS
+386,GR_0074,Greece,n.a.,40.407777778000025,22.623888889000057,Original,Mussels,Mussels,979.76273,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOUTOUPAS KONSTANTINOS
+387,GR_0075,Greece,n.a.,40.43750000000006,22.612500000000068,Original,Mussels,Mussels,576.94085,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KOYTSOFIOS AL. KONSTANTINOS
+388,GR_0076,Greece,n.a.,40.42805555500007,22.612777778000066,Original,Mussels,Mussels,604.89908,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,KYRIAKAKIS EMMANO?IL TOY KONSTANTINOY
+389,GR_0077,Greece,n.a.,40.42166666600008,22.617500000000064,Original,Mussels,Mussels,679.16741,At sea,Active,n.a.,Farm,n.a.,n.a.,KYRIAKAKIS K. EVAGGELOS
+390,GR_0078,Greece,n.a.,40.50166666600006,22.682222222000064,Original,Mussels,Mussels,1853.06661,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"KYRTZALIOTIS KYRIAKOS, KARKADAKI DIMITRA AND KARANASTASI ANASTASIA"
+391,GR_0079,Greece,n.a.,40.550555555000074,22.796944444000076,Original,Mussels,Mussels,1079.69752,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,LIOLIOS THOMAS AND  TSIALIKIS EVRIPIDIS
+392,GR_0080,Greece,n.a.,40.388611111000046,22.631944444000055,Original,Mussels,Mussels,908.92778,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,LOYTRIDOY CHRISTINA AND LOYTRIDOY KONSTANTINA
+393,GR_0081,Greece,n.a.,40.44611111100005,22.615277778000063,Original,Mussels,Mussels,920.67381,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,M. GIANTSIS & CO. G.P.
+394,GR_0082,Greece,n.a.,40.50333333300006,22.69277777800005,Original,Mussels,Mussels,1559.37034,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MALIGANIS IOANNIS AND MALIGANIS KONSTADINOS
+395,GR_0083,Greece,n.a.,40.54527777800007,22.80972222200006,Original,Mussels,Mussels,1901.5786,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MANTOPOYLOS ANTONIOS AND MPEMPIS GEORGIOS
+396,GR_0084,Greece,n.a.,40.43861111100006,22.61555555600006,Original,Mussels,Mussels,839.72122,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MAVRIDIS CH. LAZAROS
+397,GR_0085,Greece,n.a.,40.420833333000076,22.615277778000063,Original,Mussels,Mussels,467.53024,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MAVRIDIS CH. LAZAROS
+398,GR_0086,Greece,n.a.,40.47277777800008,22.671666667000068,Original,Mussels,Mussels,1173.92509,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MAYROMATIS KONSTANTINOS
+399,GR_0088,Greece,n.a.,40.498055555000064,22.70388888900004,Original,Mussels,Mussels,1062.2523,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MPAKALIS CHRISTOS AND MPATSOKI ELENI
+400,GR_0089,Greece,n.a.,40.49888888900006,22.678611111000066,Original,Mussels,Mussels,1417.5986,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MPAKALIS THOMAS AND GELADARI CHRYSOYLA
+401,GR_0090,Greece,n.a.,40.50111111100006,22.68138888900006,Original,Mussels,Mussels,1759.8169,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"MPATSOKIS PAVLOS, KALIMERIDIS NIKOLAOS, KALIMERIDIS STYLIANOS AND KALIMERIDOY ASIMOYLA"
+402,GR_0091,Greece,n.a.,40.54861111100007,22.799444444000073,Original,Mussels,Mussels,1293.39668,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MPEMPIS TRYFON
+403,GR_0092,Greece,n.a.,40.410000000000025,22.623333333000062,Original,Mussels,Mussels,1076.57479,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MYDIA MAKRYGIALOU G.P.
+404,GR_0093,Greece,n.a.,40.43027777800006,22.618611111000064,Original,Mussels,Mussels,1095.98148,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MYDIA PIERIAS L.P.
+405,GR_0094,Greece,n.a.,40.43388888900006,22.618333333000066,Original,Mussels,Mussels,1103.98669,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MYDOKALLIERGIES IRIDA LTD.
+406,GR_0095,Greece,n.a.,40.37583333300006,22.65055555600003,Original,Mussels,Mussels,615.57864,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,MYKSAKIS DIMITRIOS
+407,GR_0096,Greece,n.a.,40.40722222200003,22.62555555600005,Original,Mussels,Mussels,1048.32124,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,NAVROZIDOU SOTIRIA AND ELISAVET ADAMIDOU
+408,GR_0100,Greece,n.a.,40.77416666600004,23.821944444000053,Original,"Mussels, Oysters",Mussels-Oysters,470.4445,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,OSTRAKA-IPPOKAMPOS LTD
+409,GR_0103,Greece,n.a.,40.39000000000004,22.63027777800005,Original,Mussels,Mussels,899.54922,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,OSTREA S.A.
+410,GR_0104,Greece,n.a.,40.40805555500003,22.61694444400007,Original,Mussels,Mussels,514.84313,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,P. MICHAILIDIS-IAK. MICHAILIDIS & CO. G.P.
+411,GR_0105,Greece,n.a.,40.446666666000056,22.612777778000066,Original,Mussels,Mussels,776.9408,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,PANAGIOTIDI BROS & CO G.P.
+412,GR_0002,Greece,n.a.,40.89416666600005,24.589444444000037,Original,Mussels,Mussels,769.81722,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AFENTOULIS ATHANASIOS
+413,GR_0003,Greece,n.a.,40.86083333300007,24.665833333000023,Original,Mussels,Mussels,1402.18352,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,AFENTOULIS ATHANASIOS AND AFENTOULIS CHARALAMPOS G.P.
+414,GR_0171,Greece,n.a.,40.49833333300006,22.696944444000053,Original,Mussels,Mussels,1492.43226,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ZAKALKAS ARISTOTELIS
+415,GR_0172,Greece,n.a.,40.50388888900005,22.686666667000054,Original,Mussels,Mussels,1761.79683,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,ZAKALKAS NIKOLAOS AND ZAKALKAS ARISTOTELIS
+416,GR_0175,Greece,n.a.,40.430833333000066,22.613055556000063,Original,Mussels,Mussels,623.73367,At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,"ZEMPILOGLOY IOA. ATHANASIOS, PASTROYMAS NIK. STAVROS, PASTROYMAS NIK. STAMATIS"
