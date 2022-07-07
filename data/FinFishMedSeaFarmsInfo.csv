@@ -1,0 +1,338 @@
+,SITE_ID,COUNTRY,LATITUDE,LONGITUDE,POINT_INFO,FARM_TYPE,COAST_DIST,POSITION_COASTLINE,STATUS,PRODUCTION_METHOD,PRODUCTS_DETAIL,PRODUCTION_STAGE,PURPOSE,OWNER_NAME
+0,EL_0001,Greece,38.92027777800007,22.906388889000027,Original,n.a.,102.9617,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MANTE BROS & CO S.A.
+1,EL_0002,Greece,37.76444444400005,23.157777778000025,Original,n.a.,168.9446,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ABOTIS S.A.
+2,EL_0004,Greece,37.554722222000066,23.372777778000057,Original,n.a.,167.8239,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGIA MAVRA LTD
+3,EL_0005,Greece,37.706666667000036,23.169444444000078,Original,n.a.,61.8933,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGNOUNTA LTD
+4,EL_0006,Greece,37.77583333300004,23.176666667000063,Original,n.a.,117.7948,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGROINVEST S.A.
+5,EL_0007,Greece,37.82000000000005,23.253611111000055,Original,n.a.,118.9396,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGROINVEST S.A.
+6,EL_0008,Greece,37.808333333000064,23.26305555600004,Original,n.a.,149.2238,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGROINVEST S.A.
+7,EL_0009,Greece,37.38875000000007,23.061944444000062,Original,n.a.,307.3618,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGROINVEST S.A.
+8,EL_0010,Greece,37.652222222000034,23.961111111000037,Original,n.a.,148.7213,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AGROTIKOS-ALIEUTIKOS SYNETAIRISMOS PARAKTION ALIEON P. FALIROY-ALIMOY
+9,EL_0011,Greece,39.95833333300004,23.98055555600007,Original,n.a.,167.3802,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ALIEIA S.A.
+10,EL_0013,Greece,38.92611111100007,21.02777777800003,Original,n.a.,301.2808,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AMVRAKIKOS FISH FARMING S.A.
+11,EL_0014,Greece,38.94750000000005,20.922222222000073,Original,n.a.,86.6467,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AMVRAKIKOS LTD.
+12,EL_0015,Greece,38.966944444000035,20.840000000000032,Original,n.a.,457.7556,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+13,EL_0017,Greece,38.37916666700005,21.093055556000024,Original,n.a.,332.5192,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+14,EL_0018,Greece,38.940000000000055,20.858333333000076,Original,n.a.,110.6899,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+15,EL_0019,Greece,38.992500000000064,20.79416666700007,Original,n.a.,521.6762,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+16,EL_0020,Greece,38.41166666700008,21.080555556000036,Original,n.a.,345.8579,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+17,EL_0021,Greece,38.94055555600005,20.851666667000075,Original,n.a.,125.2084,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+18,EL_0022,Greece,38.93857394400004,20.858854250000036,Original,n.a.,25.9458,Within the coastline,n.a.,"Saltwater tanks/raceways, Saltwater closed (recirculation), Quarantine",Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,ANDROMEDA S.A.
+19,EL_0023,Greece,38.55527777800006,21.013888889000043,Original,n.a.,208.3421,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+20,EL_0024,Greece,39.66833333300008,20.08333333300004,Original,n.a.,191.6635,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+21,EL_0025,Greece,38.92038888900004,21.03444444400003,Original,n.a.,512.3215,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+22,EL_0026,Greece,38.39797222200008,21.097666667000055,Original,n.a.,202.7983,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+23,EL_0027,Greece,37.893667194000045,23.413007694000044,Original,n.a.,34.6603,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,ARGOSARONIKOS FISHFARMS S.A.
+24,EL_0028,Greece,37.89027777800004,23.410833333000028,Original,n.a.,252.3848,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ARGOSARONIKOS FISHFARMS S.A.
+25,EL_0030,Greece,38.48611111100007,21.094166667000025,Original,n.a.,100.3933,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ASTAKOS AQUACULTURES PANAGIOTIS PARPOURAS
+26,EL_0031,Greece,38.460277778000034,21.09694444400003,Original,n.a.,137.6636,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ASTAKOS FISH FARM I&K DELAPORTAS G.P.
+27,EL_0032,Greece,38.45415000000003,21.071450000000027,Original,n.a.,45.7798,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ASTERAS S.A.
+28,EL_0033,Greece,38.606111111000075,21.01949722200004,Original,n.a.,236.0347,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ASTERIAS S.A.
+29,EL_0034,Greece,37.72305555600008,23.146666667000034,Original,n.a.,169.056,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ASTIR LTD
+30,EL_0036,Greece,37.49611111100006,22.92805555600006,Original,n.a.,189.1443,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ATHANASIOS AND CHRISTOS MITSAKOS G.P.
+31,EL_0038,Greece,37.964722222000034,23.99166666700006,Original,n.a.,1331.8254,Within the coastline,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ATHONIKI P.C.
+32,EL_0040,Greece,37.80555555600006,23.175000000000068,Original,n.a.,54.1729,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AVLAKI FISH FARM LTD
+33,EL_0044,Greece,38.43194444400007,21.028611111000032,Original,Tuna,244.1382,At sea,n.a.,Sea cages,Northern bluefin tuna,Grow out for human consumption,n.a.,BLUEFIN TUNA HELLAS S.A.
+34,EL_0045,Greece,39.793611111000075,19.90500000000003,Original,n.a.,128.7685,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,CORFU SEA FARM S.A.
+35,EL_0047,Greece,38.90750000000003,22.986388889000068,Original,n.a.,164.0455,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,DEEP A' S.A. AQUACULTURES
+36,EL_0048,Greece,39.493611111000064,20.23166666700007,Original,n.a.,92.7597,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,DELAVIAS APOSTOLOS & CO G.P.
+37,EL_0051,Greece,38.371944444000064,21.091111111000032,Original,n.a.,214.3653,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,DIONI FISH
+38,EL_0052,Greece,38.30972222200006,21.123883333000038,Original,n.a.,445.6668,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,DOTO AQUACULTURE S.A.
+39,EL_0053,Greece,38.51861111100004,23.347777778000022,Original,n.a.,201.5723,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,E. TRIANTAFYLLOY & CO G.P.
+40,EL_0054,Greece,38.489016667000044,21.03482500000007,Original,n.a.,165.2847,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ECHINADES AQUACULTURE S.A.
+41,EL_0055,Greece,39.67777777800006,20.03444444400003,Original,n.a.,366.5922,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ENALIOS IONIOU S.A.
+42,EL_0056,Greece,37.71527777800003,23.160000000000025,Original,n.a.,198.5032,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EPIDAVROS AQUACULTURES S.A.
+43,EL_0057,Greece,37.72750000000008,23.133333333000053,Original,n.a.,126.1644,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EPIDAVROS AQUACULTURES S.A.
+44,EL_0058,Greece,38.95611111100004,20.808055556000056,Original,n.a.,423.3372,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EPIDAVROS AQUACULTURES S.A.
+45,EL_0059,Greece,39.679722222000066,20.018333333000044,Original,n.a.,176.0772,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EPIRUS PLAZA LTD.
+46,EL_0060,Greece,38.40355555600007,20.601802778000035,Original,n.a.,179.7234,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ER?SSOS FISH FARM LTD.
+47,EL_0063,Greece,38.39055555600004,23.971666667000022,Original,n.a.,256.0462,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EVIA FISH FARMS P.C.
+48,EL_0064,Greece,37.32361111100005,22.81793611100005,Original,n.a.,110.2675,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EVRIALOS - N. KIRITSIS & CO G.P.
+49,EL_0065,Greece,38.66500000000008,23.08777777800003,Original,n.a.,6.1709,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,EYGENIA LIAPI
+50,EL_0067,Greece,38.879861111000025,22.90055555600003,Original,n.a.,257.5149,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FEIDO S.A.
+51,EL_0072,Greece,39.52373333300005,20.160555556000077,Original,n.a.,173.8707,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FISHFARM OF THESPROTIA S.A.
+52,EL_0073,Greece,37.502500000000055,22.915833333000023,Original,n.a.,107.835,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FISHFARMING ARGOLIDAS S.A.
+53,EL_0074,Greece,38.948888889000045,20.857222222000075,Original,n.a.,166.3592,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FISHFARMING VONITSA S.A.
+54,EL_0075,Greece,37.560555556000054,23.361388889000068,Original,n.a.,106.42,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FITTONIA S.A.
+55,EL_0080,Greece,37.65791666700005,23.945555556000045,Original,n.a.,209.2346,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FORTUNA AQUACULTURE S.A.
+56,EL_0084,Greece,39.68972222200006,20.01527777800004,Original,n.a.,73.7306,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,G. MPOURAS & Co LTD
+57,EL_0087,Greece,38.537222222000025,23.360555556000065,Original,n.a.,176.0794,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,G.&P. BITSAKOS AQUACULTURES S.A.
+58,EL_0088,Greece,38.53305555600008,23.36916666700006,Original,n.a.,157.0103,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,G.&P. BITSAKOS AQUACULTURES S.A.
+59,EL_0089,Greece,38.56027777800006,23.318611111000052,Original,n.a.,195.0221,At sea,n.a.,"Sea cages, Saltwater tanks/raceways",Mediterranean marine fish,"Grow out for human consumption, Hatchery, Nursery, Broodstock, ",n.a.,G.&P. BITSAKOS AQUACULTURES S.A.
+60,EL_0091,Greece,38.34388888900003,22.27083333300004,Original,n.a.,228.3156,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GALAXIDI MARINE FARM S.A.
+61,EL_0092,Greece,38.32638888900004,22.67722222200007,Original,n.a.,676.914,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GALAXIDI MARINE FARM S.A.
+62,EL_0093,Greece,38.34111111100003,22.39138888900004,Original,n.a.,495.2561,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GALAXIDI MARINE FARM S.A.
+63,EL_0094,Greece,38.31539166700003,22.600833333000026,Original,n.a.,118.8096,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,GALAXIDI MARINE FARM S.A.
+64,EL_0095,Greece,38.351666667000075,22.388888889000043,Original,n.a.,175.8236,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GALAXIDI MARINE FARM S.A.
+65,EL_0096,Greece,38.35527777800007,22.381111111000052,Original,n.a.,103.0762,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,GALAXIDI MARINE FARM S.A.
+66,EL_0097,Greece,38.36194444400007,22.39388888900004,Original,n.a.,166.1314,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GALAXIDI MARINE FARM S.A.
+67,EL_0098,Greece,38.31222222200006,22.604722222000078,Original,n.a.,272.3705,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GALAXIDI MARINE FARM S.A.
+68,EL_0100,Greece,37.713611111000034,23.175277778000066,Original,n.a.,98.0619,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,"GEORGE PAPARGYRIS, AQUACULTURES OF EPIDAVROS S.A."
+69,EL_0101,Greece,37.71833333300003,23.17611111100007,Original,n.a.,75.478,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GEORGIOS KAPERONIS
+70,EL_0103,Greece,38.11333333300007,22.980000000000075,Original,n.a.,133.7634,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GLARONHSI FISHFARM LTD.
+71,EL_0105,Greece,39.67777777800006,20.02638888900003,Original,n.a.,176.3809,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,GRAMMOS S.A.
+72,EL_0109,Greece,39.663400000000024,20.074600000000032,Original,n.a.,721.4866,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+73,EL_0111,Greece,37.32305555600004,22.823611111000048,Original,n.a.,175.4584,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+74,EL_0112,Greece,38.22972222200008,22.808055556000056,Original,n.a.,115.2978,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+75,EL_0113,Greece,38.457638889000066,21.101111111000023,Original,n.a.,144.6305,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+76,EL_0114,Greece,38.63722222200005,23.111944444000073,Original,n.a.,42.6183,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,HELLENIC FISHFARMING S.A.
+77,EL_0115,Greece,37.61111111100007,23.308333333000064,Original,n.a.,121.9171,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+78,EL_0116,Greece,37.610330556000065,23.31623055600005,Original,n.a.,187.6086,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+79,EL_0119,Greece,40.21388888900003,23.76333333300005,Original,n.a.,390.2627,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,I. CHOROZOGLOU & CO. G.P.
+80,EL_0121,Greece,38.543611111000075,21.001388889000054,Original,n.a.,873.9509,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ICHTYME LTD
+81,EL_0125,Greece,38.64861111100004,23.111666667000065,Original,n.a.,278.5586,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,IOANNIS GLAVAS AQUACULTURES
+82,EL_0126,Greece,38.593055556000024,23.328055556000038,Original,n.a.,224.8565,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,IOANNIS K. TZELEPIS  AQUACULTURES-AQUATRADE S.A.
+83,EL_0127,Greece,39.522500000000036,20.164722222000023,Original,n.a.,138.4521,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,K. GEORGIOU S.A.
+84,EL_0128,Greece,39.49305555600006,20.240000000000066,Original,n.a.,144.7441,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,K. GEORGIOU S.A.
+85,EL_0133,Greece,37.495555556000056,22.933333333000064,Original,n.a.,299.6617,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KARXARIAS LTD.
+86,EL_0134,Greece,37.667500000000075,23.945277778000047,Original,n.a.,157.6054,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KASTELORIZO S.A.
+87,EL_0135,Greece,38.236666667000065,20.46305555600003,Original,n.a.,188.6261,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KEFALONIA AQUACULTURE S.A.
+88,EL_0136,Greece,38.248805556000036,20.42833333300007,Original,n.a.,102.1083,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,KEFALONIA AQUACULTURE S.A.
+89,EL_0137,Greece,38.23975000000007,20.45655555600007,Original,n.a.,612.8969,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KEFALONIA AQUACULTURE S.A.
+90,EL_0138,Greece,38.21005555600004,20.473500000000058,Original,n.a.,466.6396,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KEFALONIA AQUACULTURE S.A.
+91,EL_0142,Greece,38.410000000000025,22.39500000000004,Original,n.a.,127.6639,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KONSTANTINA MANDROY
+92,EL_0144,Greece,37.49888888900006,22.922083333000046,Original,n.a.,74.9331,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KORALLI P.C.
+93,EL_0149,Greece,37.889808333000076,23.420363889000043,Original,n.a.,128.7441,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LAMPRANO HELLAS AQUACULTURE S.A.
+94,EL_0150,Greece,38.96611111100003,20.829166667000038,Original,n.a.,155.617,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LASKARA S.A.
+95,EL_0151,Greece,38.387500000000045,23.95722222200004,Original,n.a.,195.4103,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LEMOND CO. S.A.
+96,EL_0152,Greece,38.38888888900004,23.941111111000055,Original,n.a.,95.9552,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,LEMOND CO. S.A.
+97,EL_0153,Greece,38.38722222200005,23.94944444400005,Original,n.a.,139.0645,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LEMOND CO. S.A.
+98,EL_0154,Greece,38.96611111100003,20.786666667000077,Original,n.a.,603.3157,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LEOPOULOS FISHFARMING S.A.
+99,EL_0156,Greece,39.49194444400007,20.24194444400007,Original,n.a.,82.354,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LIONIS & CO G.P.
+100,EL_0159,Greece,39.66694444400008,20.08916666700003,Original,n.a.,149.0618,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LORIDA S.A.
+101,EL_0161,Greece,38.60222222200008,23.338611111000034,Original,n.a.,171.7982,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MALESINA FISHFARM S.A.
+102,EL_0162,Greece,38.60333333300008,23.33666666700003,Original,n.a.,35.8519,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,MALESINA FISHFARM S.A.
+103,EL_0164,Greece,38.921944444000076,22.894444444000044,Original,n.a.,54.0445,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,MANTE FISH FARMS P.C.
+104,EL_0165,Greece,38.919722222000075,22.89611111100004,Original,n.a.,133.5074,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MANTE FISH FARMS S.A.
+105,EL_0167,Greece,38.650000000000034,23.104166667000072,Original,n.a.,294.1622,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARE MAGNUM S.A.
+106,EL_0169,Greece,39.68611111100006,20.010277778000045,Original,n.a.,306.6332,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARICOM FISH S.A.
+107,EL_0176,Greece,38.55194444400007,23.325000000000045,Original,n.a.,107.5242,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARTINOY AQUACULTURE S.A.
+108,EL_0177,Greece,38.95944444400004,20.800000000000068,Original,n.a.,273.5121,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MAVRI S.A. AQUACULTURE
+109,EL_0178,Greece,38.233333333000076,22.790833333000023,Original,n.a.,57.002,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MEGALI AGIA AQUACULTURE S.A.
+110,EL_0179,Greece,38.434166667000056,21.08916666700003,Original,n.a.,281.0463,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MESOLOGGI AQUACULTURE LTD
+111,EL_0181,Greece,38.67250000000007,20.92805555600006,Original,n.a.,149.985,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MITIKAS S.A.
+112,EL_0182,Greece,39.68194444400007,20.05750000000006,Original,n.a.,164.1937,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MPASTIA S.A.
+113,EL_0184,Greece,38.95561388900006,20.81305555600005,Original,n.a.,241.9507,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MUNICIPAL FISHING ENTERPRISE OF PREVEZA S.A.
+114,EL_0187,Greece,38.954444444000046,20.859444444000076,Original,n.a.,177.5555,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NEW FISH LTD
+115,EL_0188,Greece,38.90083333300004,22.95833333300004,Original,n.a.,209.8724,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIKOFARM FISH FARM LTD
+116,EL_0190,Greece,37.73861111100007,23.126388889000054,Original,n.a.,109.0508,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIKOLAOU MARKELLOU BROS. G.P.
+117,EL_0192,Greece,40.55444444400007,23.881944444000055,Original,n.a.,119.4712,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIKOY M. - MALLIOS B. & CO G.P.
+118,EL_0194,Greece,38.89878055600008,22.94782222200007,Original,n.a.,190.5475,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+119,EL_0195,Greece,38.35777777800007,21.04527777800007,Original,n.a.,348.2343,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+120,EL_0196,Greece,38.89188055600005,22.936222222000026,Original,n.a.,216.9403,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+121,EL_0197,Greece,38.88707500000004,22.91624444400003,Original,n.a.,119.2425,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+122,EL_0198,Greece,39.65625000000006,20.08916666700003,Original,n.a.,231.4857,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+123,EL_0199,Greece,38.692677778000075,23.408619444000067,Original,n.a.,124.4409,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+124,EL_0200,Greece,38.903277778000074,22.962575000000072,Original,n.a.,188.5277,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+125,EL_0201,Greece,37.350833333000026,23.07111111100005,Original,n.a.,167.6001,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+126,EL_0202,Greece,39.533891667000034,20.180800000000033,Original,n.a.,543.94,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,Nursery,n.a.,NIREUS AQUACULTURES S.A.
+127,EL_0203,Greece,38.490000000000066,21.086111111000037,Original,n.a.,247.3202,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+128,EL_0204,Greece,38.55888888900006,23.609722222000073,Original,n.a.,64.725,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,NIREUS AQUACULTURES S.A.
+129,EL_0205,Greece,37.46388888900003,23.009166667000045,Original,n.a.,129.7521,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+130,EL_0206,Greece,38.48277777800007,21.076388889000043,Original,n.a.,136.5511,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+131,EL_0207,Greece,39.67986111100004,20.045138889000043,Original,n.a.,340.8429,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+132,EL_0208,Greece,38.608333333000076,20.874444444000062,Original,n.a.,238.0716,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+133,EL_0209,Greece,38.68916666700005,23.416666667000072,Original,n.a.,226.7163,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+134,EL_0210,Greece,38.48300833300004,21.031347222000022,Original,n.a.,154.1998,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+135,EL_0212,Greece,38.42166666700007,21.08027777800004,Original,n.a.,227.028,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+136,EL_0213,Greece,38.36666666700006,21.038888889000077,Original,n.a.,524.3148,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+137,EL_0219,Greece,38.75555555600005,20.77527777800003,Original,n.a.,57.2566,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+138,EL_0220,Greece,38.480080556000075,21.045825000000036,Original,n.a.,179.9568,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+139,EL_0221,Greece,38.36555555600006,22.108611111000073,Original,n.a.,294.7938,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+140,EL_0222,Greece,38.48771666700003,21.02372222200006,Original,n.a.,89.1778,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+141,EL_0223,Greece,39.006944444000055,23.137500000000045,Original,n.a.,77.7062,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,NIREUS AQUACULTURES S.A.
+142,EL_0224,Greece,38.47166111100006,21.053313889000037,Original,n.a.,364.1006,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+143,EL_0225,Greece,38.46136666700005,21.067130556000052,Original,n.a.,339.4772,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+144,EL_0226,Greece,38.42323333300004,21.074486111000056,Original,n.a.,530.624,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+145,EL_0228,Greece,38.91805555600007,22.91805555600007,Original,n.a.,76.7485,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+146,EL_0229,Greece,38.38559444400005,21.91210555600003,Original,n.a.,99.5777,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,NIREUS AQUACULTURES S.A.
+147,EL_0230,Greece,38.56638888900005,23.60666666700007,Original,n.a.,368.9383,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,NIREUS AQUACULTURES S.A.
+148,EL_0232,Greece,38.90055555600003,22.95277777800004,Original,n.a.,263.866,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,OCEANIS S.A.
+149,EL_0233,Greece,37.79722222200007,23.17722222200007,Original,n.a.,87.882,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ODYSSEUS FISH FARM S.A.
+150,EL_0235,Greece,39.11888888900006,22.958750000000066,Original,n.a.,153.4456,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PAGASITIKOS FISHFARMS S.A.
+151,EL_0246,Greece,37.965833333000035,23.045555556000068,Original,n.a.,4813.1288,Within the coastline,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PETALA BROS S.A.
+152,EL_0250,Greece,38.613888889000066,21.016333333000034,Original,n.a.,21.4743,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,PLAGTON S.A.
+153,EL_0251,Greece,38.61583333300007,21.011666667000043,Original,n.a.,162.5813,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PLAGTON S.A.
+154,EL_0252,Greece,37.46888888900003,23.016666667000038,Original,n.a.,137.495,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PLATEIA FISH FARMING S.A.
+155,EL_0253,Greece,39.676388889000066,20.06222222200006,Original,n.a.,208.4165,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,POSEIDONIA LTD
+156,EL_0254,Greece,38.56527777800005,23.317500000000052,Original,n.a.,149.8546,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PROMITHEAS AQUACULTURES LTD
+157,EL_0256,Greece,38.96444444400004,20.790555556000072,Original,n.a.,389.8571,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,RODAS AQUACULTURE S.A.
+158,EL_0257,Greece,39.66388888900008,20.091944444000035,Original,n.a.,144.3314,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SAGIADA FISH S.A.
+159,EL_0258,Greece,38.292566667000074,21.103125000000034,Original,n.a.,232.9712,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SAO AQUACULTURE S.A.
+160,EL_0259,Greece,38.40472222200003,21.089444444000037,Original,n.a.,168.386,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SAO AQUACULTURE S.A.
+161,EL_0260,Greece,38.33027777800004,21.13250000000005,Original,n.a.,267.9604,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SAO AQUACULTURE S.A.
+162,EL_0261,Greece,38.33027777800004,21.13250000000005,Original,n.a.,267.9604,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SAO AQUACULTURE S.A.
+163,EL_0262,Greece,38.30146388900005,21.101455556000076,Original,n.a.,25.0341,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SAO AQUACULTURE S.A.
+164,EL_0263,Greece,37.95513888900007,23.423333333000073,Original,n.a.,88.8861,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SARONIKOS AQUACULTURE S.A.
+165,EL_0264,Greece,37.71972222200003,23.152500000000032,Original,n.a.,149.2934,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SARONIKOS LTD
+166,EL_0265,Greece,37.47500000000008,23.045000000000073,Original,n.a.,210.9294,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+167,EL_0266,Greece,37.71666666700003,23.167222222000078,Original,n.a.,174.4579,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+168,EL_0267,Greece,37.462500000000034,23.047777778000068,Original,n.a.,152.3187,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+169,EL_0268,Greece,37.45416666700004,23.050277778000066,Original,n.a.,183.9196,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+170,EL_0269,Greece,38.84500000000003,22.712500000000034,Original,n.a.,1232.0585,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+171,EL_0270,Greece,37.53333333300003,23.45833333300004,Original,n.a.,326.7623,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+172,EL_0271,Greece,37.49027777800006,22.936944444000062,Original,n.a.,140.7466,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+173,EL_0272,Greece,37.44972222200005,23.066388889000052,Original,n.a.,197.0304,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+174,EL_0274,Greece,38.192222222000055,22.914444444000026,Original,n.a.,105.918,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+175,EL_0275,Greece,38.18583333300006,22.910277778000022,Original,n.a.,299.2077,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+176,EL_0276,Greece,37.731111111000075,23.12222222200006,Original,n.a.,165.7843,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+177,EL_0277,Greece,38.18694444400006,22.953055556000038,Original,n.a.,119.166,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+178,EL_0282,Greece,37.858333333000076,23.147500000000036,Original,n.a.,99.1276,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+179,EL_0285,Greece,38.890833333000046,22.821944444000053,Original,n.a.,87.0541,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,SELONDA AQUACULTURE S.A.
+180,EL_0286,Greece,38.58250000000004,23.309166667000056,Original,n.a.,339.062,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+181,EL_0287,Greece,38.53888888900008,23.350833333000026,Original,n.a.,307.7522,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+182,EL_0288,Greece,38.88944444400005,22.835000000000036,Original,n.a.,215.4221,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+183,EL_0291,Greece,37.86444444400007,23.081666667000036,Original,n.a.,425.3574,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+184,EL_0293,Greece,37.76000000000005,23.17611111100007,Original,n.a.,84.172,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+185,EL_0294,Greece,37.47083333300003,23.025000000000034,Original,n.a.,283.5193,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+186,EL_0295,Greece,38.83944444400004,22.716944444000035,Original,n.a.,1286.3131,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+187,EL_0296,Greece,37.35097222200005,22.799166667000065,Original,n.a.,137.8996,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+188,EL_0298,Greece,37.91833333300008,23.407777778000025,Original,n.a.,160.495,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+189,EL_0300,Greece,37.09100833300005,22.966386111000077,Original,n.a.,161.5636,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+190,EL_0301,Greece,37.100405556000055,22.95856666700007,Original,n.a.,182.9109,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+191,EL_0302,Greece,37.92833333300007,23.416388889000075,Original,n.a.,183.9516,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+192,EL_0303,Greece,37.53527777800008,23.473888889000023,Original,n.a.,126.4248,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+193,EL_0305,Greece,37.47611111100008,23.030277778000027,Original,n.a.,84.9316,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+194,EL_0306,Greece,37.47916666700007,23.040000000000077,Original,n.a.,109.777,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+195,EL_0307,Greece,37.85777777800007,23.144166667000036,Original,n.a.,102.1755,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+196,EL_0308,Greece,38.58472222200004,23.30444444400007,Original,n.a.,42.9935,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,SELONDA AQUACULTURE S.A.
+197,EL_0309,Greece,37.53638888900008,23.465833333000035,Original,n.a.,388.936,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+198,EL_0310,Greece,39.66055555600008,20.10555555600007,Original,n.a.,109.2048,Within the coastline,n.a.,"Saltwater tanks/raceways, Saltwater closed (recirculation)",Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,SELONDA AQUACULTURE S.A.
+199,EL_0311,Greece,37.55000000000007,23.469444444000032,Original,n.a.,314.3719,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+200,EL_0312,Greece,39.655205556000055,20.106630556000027,Original,n.a.,159.8292,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+201,EL_0313,Greece,39.650000000000034,20.098611111000025,Original,n.a.,192.3912,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+202,EL_0314,Greece,38.374166667000054,21.89611111100004,Original,n.a.,137.0537,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,SELONDA AQUACULTURE S.A.
+203,EL_0315,Greece,37.86583333300007,23.084166667000034,Original,n.a.,167.8333,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+204,EL_0316,Greece,37.26861111100004,23.278055556000027,Original,n.a.,226.9026,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+205,EL_0317,Greece,38.56333333300006,22.604597222000052,Original,n.a.,19934.1883,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,SELONDA AQUACULTURE S.A.
+206,EL_0319,Greece,39.66263888900005,20.098333333000028,Original,n.a.,95.2705,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SIMOS-FOUKI G.P.
+207,EL_0321,Greece,39.67138888900007,20.07222222200005,Original,n.a.,201.2728,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SKALOMA S.A.
+208,EL_0322,Greece,39.67166666700007,20.065833333000057,Original,n.a.,208.978,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SKALOMA S.A.
+209,EL_0323,Greece,37.96944444400003,23.296944444000076,Original,n.a.,287.2498,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SKIRONIS AQUACULTURE S.A.
+210,EL_0324,Greece,38.94750000000005,20.922222222000073,Original,n.a.,86.6467,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SKORPIOS G.P.
+211,EL_0327,Greece,38.35361111100008,22.60555555600007,Original,n.a.,163.1127,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SPARUS LTD
+212,EL_0328,Greece,37.558333333000064,23.367222222000066,Original,n.a.,85.3061,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,STAVROS STAMATIOY
+213,EL_0329,Greece,38.91055555600008,23.000277778000054,Original,n.a.,149.3101,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,STRATOS S.A.
+214,EL_0331,Greece,38.31666666700005,21.113055556000063,Original,n.a.,85.79,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,TASTY FISH WEST GREECE AQUACULTURES LTD.
+215,EL_0332,Greece,39.97222222200003,22.664888889000053,Original,Other diversified farm,202.8498,Within the coastline,n.a.,Other,"European eel, Mediterranean marine fish, Blue crab, Flathead mullet","Grow out for human consumption, Put and take fisheries",n.a.,TITHIS G.P.
+216,EL_0335,Greece,38.94101388900003,20.851880556000026,Original,n.a.,169.9543,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,TZEFRIOS DIMITRIOS & SONS G.P.
+217,EL_0337,Greece,38.95527777800004,20.82444444400005,Original,n.a.,142.1676,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,VAS. LEODITSIS S.A.
+218,EL_0338,Greece,39.12250000000006,23.154166667000027,Original,n.a.,136.9492,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,YDROVIOS AQUACULTURES LTD
+219,EL_0339,Greece,38.64972222200004,23.104166667000072,Original,n.a.,263.6358,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ZERVAS-KYRIAZIS AQUACULTURES S.A.
+220,EL_0340,Greece,39.03083333300003,21.120555556000056,Original,n.a.,291.4401,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,?VRIALOS P.C.
+221,EL_0341,Greece,39.03305555600008,21.456666667000036,Original,n.a.,26610.031,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,?VRIALOS P.C.
+222,EL_0003,Greece,36.22416666700008,27.631666667000047,Original,n.a.,398.8945,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,AEGEAN FISH S.A.
+223,EL_0012,Greece,38.31666666700005,24.101388889000077,Original,n.a.,234.724,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ALKYONIDES I.K.E.
+224,EL_0016,Greece,37.11472222200007,24.50972222200005,Original,n.a.,148.7618,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ANDROMEDA S.A.
+225,EL_0035,Greece,36.60839061100006,26.338453972000025,Original,n.a.,578.2624,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,ASTYPALAIA FISH FARMING S.A.
+226,EL_0042,Greece,37.98722222200007,24.396388889000036,Original,n.a.,926.249,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,BLUE FARM AQUACULTURE S.A.
+227,EL_0043,Greece,38.07555555600004,24.285555556000077,Original,n.a.,108.5217,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,BLUE FARM AQUACULTURE S.A.
+228,EL_0049,Greece,38.29388888900007,25.92361111100007,Original,n.a.,70.6381,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,DIAPORI FISH FARMING S.A.
+229,EL_0066,Greece,38.32305555600004,24.03305555600008,Original,n.a.,192.0806,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FEIDO S.A.
+230,EL_0068,Greece,38.31972222200005,24.08138888900004,Original,n.a.,178.3953,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FEIDO S.A.
+231,EL_0071,Greece,37.93500000000006,27.156944444000032,Original,n.a.,5223.9183,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FISH PSERIMOS S.A.
+232,EL_0076,Greece,38.47083333300003,26.15138888900003,Original,n.a.,112.4534,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FORKYS AQUACULTURE S.A.
+233,EL_0077,Greece,38.472361111000055,26.15294444400007,Original,n.a.,0.1559,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FORKYS AQUACULTURE S.A.
+234,EL_0078,Greece,38.46194444400004,26.153055556000027,Original,n.a.,98.1745,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FORKYS AQUACULTURE S.A.
+235,EL_0079,Greece,38.51000000000005,26.15166666700003,Original,n.a.,83.4664,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,FORKYS AQUACULTURE S.A.
+236,EL_0081,Greece,37.20497222200004,26.78385833300007,Original,n.a.,209.4826,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,G. & D. MANIS G.P.
+237,EL_0106,Greece,35.480000000000075,24.11111111100007,Original,n.a.,281.8484,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC CENTRE FOR MARINE RESEARCH (H.C.M.R.)
+238,EL_0107,Greece,37.46500000000003,26.99972222200006,Original,n.a.,86.813,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISH S.A.
+239,EL_0108,Greece,37.473611111000025,26.989305556000033,Original,n.a.,148.1546,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISH S.A.
+240,EL_0110,Greece,38.208888889000036,24.049444444000073,Original,n.a.,116.8138,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+241,EL_0117,Greece,37.91916666700007,24.693055556000047,Original,n.a.,123.6091,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,HELLENIC FISHFARMING S.A.
+242,EL_0122,Greece,40.32083333300005,24.217777778000027,Original,n.a.,252.0773,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,IERA MEGISTI MONI VATOPAIDIOY
+243,EL_0123,Greece,39.02666666700003,26.535000000000025,Original,n.a.,21.8756,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,INTERFISH AQUACULTURE S.A.
+244,EL_0132,Greece,38.32472222200005,24.075000000000045,Original,n.a.,111.2643,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,KARPASIA AQUACULTURES S.A.
+245,EL_0146,Greece,38.08777777800003,24.21194444400004,Original,n.a.,324.973,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LAFIA AQUACULTURES S.A.
+246,EL_0148,Greece,36.245833333000064,27.77555555600003,Original,n.a.,247.6571,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LAMAR S.A.
+247,EL_0155,Greece,38.322777778000045,24.08888888900003,Original,n.a.,145.998,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,LION AQUACULTURES S.A.
+248,EL_0163,Greece,37.20173888900007,26.778688889000023,Original,n.a.,212.5539,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MANI BROS & SONS S.A.
+249,EL_0168,Greece,40.95805555600003,24.529722222000032,Original,n.a.,81.7515,Within the coastline,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARIA MICHAILIDOY
+250,EL_0170,Greece,37.089722222000034,26.887500000000045,Original,n.a.,76.8186,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARKELLOS MARINE FARM S.A.
+251,EL_0171,Greece,37.20833333300004,26.798055556000065,Original,n.a.,107.4745,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARKELLOS MARINE FARM S.A.
+252,EL_0172,Greece,37.18486111100003,26.77083333300004,Original,n.a.,156.6491,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARKELLOS MARINE FARM S.A.
+253,EL_0173,Greece,37.19472222200005,26.795000000000073,Original,n.a.,152.0321,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARKELLOS MARINE FARM S.A.
+254,EL_0174,Greece,37.200000000000045,26.79305555600007,Original,n.a.,160.1742,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARKELLOS MARINE FARM S.A.
+255,EL_0175,Greece,38.005833333000055,24.283888889000025,Original,n.a.,219.8369,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MARMARI AQUACULTURE P.C.
+256,EL_0180,Greece,38.48611111100007,26.130833333000055,Original,n.a.,114.911,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,MIKES CHAVIARAS S.A.
+257,EL_0193,Greece,38.49722222200006,26.26972222200004,Original,n.a.,239.2236,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+258,EL_0211,Greece,38.491975000000025,26.147800000000075,Original,n.a.,53.0294,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+259,EL_0214,Greece,38.48861111100007,26.143055556000036,Original,n.a.,76.9647,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+260,EL_0215,Greece,38.54216111100004,26.126658333000023,Original,n.a.,56.9007,Within the coastline,n.a.,Saltwater tanks/raceways,Mediterranean marine fish,"Hatchery, Nursery, Broodstock",n.a.,NIREUS AQUACULTURES S.A.
+261,EL_0216,Greece,38.496219444000076,26.156719444000032,Original,n.a.,309.5565,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+262,EL_0217,Greece,38.36597222200004,24.048333333000073,Original,n.a.,251.8438,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+263,EL_0218,Greece,38.49194444400007,26.281388889000027,Original,n.a.,230.9298,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+264,EL_0227,Greece,38.358472222000046,24.05083333300007,Original,n.a.,297.5208,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,NIREUS AQUACULTURES S.A.
+265,EL_0241,Greece,38.321666667000045,24.053888889000064,Original,n.a.,131.0743,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PERSEUS S.A.
+266,EL_0242,Greece,38.25388888900005,24.121805556000027,Original,n.a.,158.4068,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PERSEUS S.A.
+267,EL_0243,Greece,38.25555555600005,24.10777777800007,Original,n.a.,275.9892,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PERSEUS S.A.
+268,EL_0244,Greece,38.32138888900005,24.040000000000077,Original,n.a.,212.4551,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PERSEUS S.A.
+269,EL_0245,Greece,38.31861111100005,24.06000000000006,Original,n.a.,172.9731,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PERSEUS S.A.
+270,EL_0247,Greece,38.086388889000034,24.27444444400004,Original,n.a.,180.1476,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,PETALIOI ALIEYMATA S.A.
+271,EL_0273,Greece,37.948888889000045,27.032500000000027,Original,n.a.,8085.7083,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+272,EL_0278,Greece,39.301388889000066,26.075000000000045,Original,n.a.,279.0524,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+273,EL_0279,Greece,39.005833333000055,26.598333333000028,Original,n.a.,386.6342,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+274,EL_0280,Greece,39.027222222000034,26.531944444000032,Original,n.a.,126.0123,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+275,EL_0281,Greece,36.962500000000034,27.036111111000025,Original,n.a.,97.6552,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+276,EL_0283,Greece,36.25833333300005,27.773888889000034,Original,n.a.,262.9314,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+277,EL_0284,Greece,36.24527777800006,27.788888889000077,Original,n.a.,281.2502,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+278,EL_0289,Greece,36.957777778000036,27.041111111000077,Original,n.a.,141.978,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+279,EL_0290,Greece,37.191111111000055,26.76527777800004,Original,n.a.,67.7286,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+280,EL_0292,Greece,36.598611111000025,26.394166667000036,Original,n.a.,151.7409,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+281,EL_0297,Greece,36.60638888900007,26.391944444000046,Original,n.a.,188.0795,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+282,EL_0299,Greece,38.26388888900004,24.10555555600007,Original,n.a.,267.5279,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+283,EL_0304,Greece,37.03694444400003,26.922222222000073,Original,n.a.,106.8452,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SELONDA AQUACULTURE S.A.
+284,EL_0318,Greece,40.95880555600007,24.529166667000027,Original,n.a.,163.6837,Within the coastline,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SIDIROPOULOS KYRIAKOS
+285,EL_0325,Greece,37.11638888900006,26.827500000000043,Original,n.a.,111.9705,At sea,n.a.,Sea cages,Mediterranean marine fish,Grow out for human consumption,n.a.,SOFIA AND THEODOROS DIAMANTI G.P.
+286,CY_0001,Cyprus,34.694979329000034,33.242005025000026,Polygon centroid,Other diversified farm,1097.6215,At sea,Active,Sea cages,"Seabass, Seabream, Meagre",Grow out for human consumption,n.a.,EAST MEDITERRANEAN  AQUA TECHNIQUE LTD (EMAT LTD)
+287,CY_0002,Cyprus,34.70175877400004,33.285483526000064,Polygon centroid,Other diversified farm,1473.1231,At sea,Active,Sea cages,"Seabass, Seabream, Meagre",Grow out for human consumption,n.a.,SEAWAVE FISHERIES LTD
+288,CY_0003,Cyprus,34.70156110500005,33.28244668700006,Polygon centroid,Other diversified farm,1257.7169,At sea,Active,Sea cages,"Seabass, Seabream, Meagre",Grow out for human consumption,n.a.,SEAWAVE FISHERIES LTD
+289,CY_0004,Cyprus,34.691612064000026,33.319387575000064,Polygon centroid,Seabass-Seabream,2957.6073,At sea,Active,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,TELIA VASILIKO LTD
+290,CY_0005,Cyprus,34.69683888900005,33.268355556000074,Polygon centroid,Other diversified farm,1148.4447,At sea,Active,Sea cages,"Seabass, Seabream, Meagre",Grow out for human consumption,n.a.,BLUE ISLAND PUBLIC
+291,CY_0006,Cyprus,34.699179333000075,33.27069505400004,Polygon centroid,Other diversified farm,938.2925,At sea,Active,Sea cages,"Seabass, Seabream, Meagre",Grow out for human consumption,n.a.,BLUE ISLAND PUBLIC
+292,CY_0007,Cyprus,34.67701069200007,33.26388005500007,Polygon centroid,Seabass-Seabream,3155.2922,At sea,Active,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,OCEANIS AQUACULTURE LTD
+293,CY_0008,Cyprus,34.68260930200006,33.24685244500006,Polygon centroid,Seabass-Seabream,2469.1511,At sea,Active,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,KITIANA FISHERIES LTD
+294,CY_0009,Cyprus,34.64269051300005,33.024226818000045,Polygon centroid,Seabass-Seabream,955.5853,At sea,Active,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,KIMAGRO FISHFARMING LTD
+295,CY_0010,Cyprus,34.63771243600007,33.03869726500005,Polygon centroid,Seabass-Seabream,2143.9471,At sea,Active,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,KIMAGRO FISHFARMING LTD
+296,CY_0011,Cyprus,34.950125409000066,33.907869438000034,Polygon centroid,Seabass-Seabream,1440.9134,At sea,Active,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,TELIA AQUA MARINE LTD
+297,CY_0012,Cyprus,34.69738333300006,33.20172500000007,Polygon centroid,Seabass-Seabream,1013.0688,At sea,Inactive,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,ICHTHYS ECO FARM LTD
+298,CY_0013,Cyprus,34.69738333300006,33.197558333000075,Polygon centroid,Seabass-Seabream,980.2184,At sea,Inactive,Sea cages,"Seabass, seabream",Grow out for human consumption,n.a.,ICHTHYS ECO FARM LTD
+299,CY_0016,Cyprus,34.956000000000074,33.890833333000046,Original,Seabass-Seabream,180.4165,Within the coastline,Active,Saltwater tanks/raceways,"Seabass, seabream",Hatchery,n.a.,TELIA AQUA MARINE LTD
+300,ES_0047,Spain,37.82571388900004,-0.6811194439999326,Original,Seabass-Seabream,6134.311823283382,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+301,ES_0044,Spain,39.65140555600004,-0.20923055599996587,Original,Seabass-Seabream,26.510927661177053,Within the coastline,Active,Saltwater tanks/raceways,Gilt-head Bream (Sparus aurata),Nursery,Commercial,n.a.
+302,ES_0032,Spain,37.806477778000044,-0.6732027779999612,Original,Seabass-Seabream,6875.5679555519755,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,n.a.,n.a.
+303,ES_0088,Spain,37.86204166700003,-0.6730166669999562,Original,Other specialised farm,6849.504761652896,At sea,Active,Sea cages,Amberjack (Seriola dumerili),Grow out for human consumption,Commercial,n.a.
+304,ES_0027,Spain,38.112016667000034,-0.6451249999999504,Original,Seabass-Seabream,245.28607306776425,Within the coastline,Active,Saltwater tanks/raceways,Gilt-head Bream (Sparus aurata),Nursery,Commercial,n.a.
+305,ES_0024,Spain,38.49364333300008,-0.19930249999993066,Original,Other specialised farm,2082.9187050299483,At sea,Active,Sea cages,Amberjack (Seriola dumerili),Grow out for human consumption,Commercial,n.a.
+306,ES_0092,Spain,37.34022777800004,-1.611752777999925,Original,Seabass-Seabream,3941.6899149701967,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,n.a.,n.a.
+307,ES_0025,Spain,36.97941194400005,-1.901961943999936,Original,Other specialised farm,78.23444429740078,Within the coastline,Active,Saltwater tanks/raceways,Meagre (Argyrosomus regius),Nursery,n.a.,n.a.
+308,ES_0093,Spain,36.74438888900005,-3.5998916669999517,Original,Seabass-Seabream,50.159412619505154,Within the coastline,Active,Saltwater tanks/raceways,Gilt-head Bream (Sparus aurata),Nursery,n.a.,n.a.
+309,ES_0030,Spain,39.893636111000035,-0.03559166699994876,Original,Other specialised farm,36.94478538417786,Within the coastline,Active,Saltwater tanks/raceways,Meagre (Argyrosomus regius),Nursery,Commercial,n.a.
+310,ES_0031,Spain,38.09826944400004,-0.601263888999938,Original,Seabass-Seabream,3784.341234720513,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+311,ES_0048,Spain,37.571505556000034,-0.8703444439999544,Original,Other specialised farm,831.5590999169484,Within the coastline,Active,Saltwater ponds,Mullets (Mugil spp.),Grow out for human consumption,Commercial,n.a.
+312,ES_0116,Spain,37.56547222200004,-0.8741833329999622,Original,Seabass-Seabream,14663.128996439918,Within the coastline,Active,Saltwater ponds,White Seabream (Diplodus sargus),Grow out for human consumption,n.a.,n.a.
+313,ES_0106,Spain,37.82563333300004,-0.6697583329999475,Original,Other specialised farm,465.6468893183493,At sea,Active,Sea cages,Pollack (Pollachius pollachius),n.a.,n.a.,n.a.
+314,ES_0055,Spain,37.789961111000025,-0.6797527779999655,Original,Other specialised farm,2891.4458435890238,Within the coastline,Active,Saltwater ponds,Mullets (Mugil spp.),Grow out for human consumption,Commercial,n.a.
+315,ES_0107,Spain,36.81593055600007,-2.5374805559999345,Original,Other specialised farm,552.3871201052083,At sea,Active,Sea cages,Pollack (Pollachius pollachius),n.a.,n.a.,n.a.
+316,ES_0052,Spain,37.825291667000045,-0.6641305559999751,Original,Flatfish,28.468131593486838,Within the coastline,Active,Saltwater tanks/raceways,Senegalese Sole (Solea senegalensis),Nursery,n.a.,n.a.
+317,ES_0104,Spain,39.79489722200003,-0.0662083329999632,Original,Salmon,499.74175640023367,At sea,Active,Sea cages,Atlantic salmon (Salmo salar),n.a.,Commercial,n.a.
+318,ES_0053,Spain,37.825666667000064,-0.6755055559999619,Original,Seabass-Seabream,1140.3603622674714,Within the coastline,Active,Saltwater ponds,White Seabream (Diplodus sargus),n.a.,n.a.,n.a.
+319,ES_0105,Spain,38.57198611100006,-0.03242777799994201,Original,Salmon,615.679417550366,At sea,Active,Sea cages,Atlantic salmon (Salmo salar),n.a.,Commercial,n.a.
+320,ES_0111,Spain,38.07463083300007,-0.5940411109999673,Original,Other specialised farm,390.50530043312057,At sea,Active,Sea cages,Pollack (Pollachius pollachius),n.a.,n.a.,n.a.
+321,ES_0006,Spain,38.08667500000007,-0.5982249999999567,Original,Other specialised farm,422.39316251583676,At sea,Active,Sea cages,Meagre (Argyrosomus regius),Grow out for human consumption,Commercial,n.a.
+322,ES_0062,Spain,38.41878333300008,-0.34872777799995447,Original,Seabass-Seabream,7131.162824249443,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+323,ES_0063,Spain,36.98099166700007,-1.9021611109999412,Original,Tuna,5688.075138232676,At sea,Active,Sea cages,Atlantic bluefin tuna (Thunnus thynnus),Grow out for human consumption,n.a.,n.a.
+324,ES_0061,Spain,38.11967500000003,-0.5962749999999346,Original,Seabass-Seabream,410.80031785340003,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,n.a.,n.a.
+325,ES_0041,Spain,37.43901666700003,-1.486699999999928,Original,Seabass-Seabream,6626.690866111122,At sea,Active,Sea cages,European Seabass (Dicentrarchus labrax),n.a.,Commercial,n.a.
+326,ES_0028,Spain,37.412894444000074,-1.5333805559999405,Original,Seabass-Seabream,1712.9606563495106,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+327,ES_0083,Spain,39.79098888900006,-0.06878888899996127,Original,Seabass-Seabream,874.1137922210077,Within the coastline,Active,Saltwater ponds,White Seabream (Diplodus sargus),Grow out for human consumption,Commercial,n.a.
+328,ES_0080,Spain,37.56569722200004,-0.8679638889999524,Original,Seabass-Seabream,4687.772194063321,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+329,ES_0029,Spain,39.826502778000076,-0.007619443999942632,Original,Seabass-Seabream,4224.446240461674,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+330,ES_0086,Spain,37.81694722200007,-0.6944444439999415,Original,Seabass-Seabream,2032.053683113682,Within the coastline,Active,Saltwater ponds,Spotted Seabass (Dicentrarchus punctatus),Grow out for human consumption,Commercial,n.a.
+331,ES_0087,Spain,39.64470000000006,-0.16911388899995927,Original,Seabass-Seabream,3200.260792454306,Within the coastline,Active,Saltwater ponds,White Seabream (Diplodus sargus),Grow out for human consumption,Commercial,n.a.
+332,ES_0016,Spain,38.616011111000034,0.03751388900002439,Original,Seabass-Seabream,3134.6318567262515,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),Grow out for human consumption,Commercial,n.a.
+333,ES_0017,Spain,42.25698055600003,3.1711555560000306,Original,Flatfish,66.2819273568895,Within the coastline,Active,Saltwater tanks/raceways,Senegalese Sole (Solea senegalensis),Nursery,n.a.,n.a.
+334,ES_0022,Spain,39.54497222200007,2.6986583330000258,Original,Seabass-Seabream,3844.185443193157,At sea,Active,Sea cages,Gilt-head Bream (Sparus aurata),n.a.,Commercial,n.a.
+335,ES_0075,Spain,40.86256944400003,0.8545388890000254,Original,Seabass-Seabream,1252.5843960303741,Within the coastline,Active,Saltwater ponds,Spotted Seabass (Dicentrarchus punctatus),Grow out for human consumption,Commercial,n.a.
+336,ES_0020,Spain,39.813234167000076,3.0957200000000284,Original,Flatfish,66.5111661034246,Within the coastline,Active,Saltwater tanks/raceways,Turbot (Scophtalmus maximus),Grow out for human consumption,Commercial,n.a.
