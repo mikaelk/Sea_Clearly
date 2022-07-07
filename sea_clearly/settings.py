@@ -32,6 +32,7 @@ NAME_LANDMASK = 'landmask.nc'
 NAME_LAND_U = 'land_displacement.nc'
 
 # Release of particles
+# you don't have to change any of this if you're using pre-run data (as should proabably be the case)
 RELEASE_MODE = 'uniform'
 DICT_RELEASE = {'lon_min': None, #set uniform release bounds here, or set to None to use native grid bounds
                 'lon_max': None,
