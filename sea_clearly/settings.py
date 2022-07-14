@@ -13,14 +13,17 @@ if 'Kaandorp' in socket.gethostname():
 elif 'lorenz' or 'node0' in socket.gethostname():
     DIR_INPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Input/'
     DIR_OUTPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Output/'
+elif 'jupyter' or 'node0' in socket.gethostname():
+    DIR_INPUT = '/home/jovyan/Data/Input/'
+    DIR_OUTPUT = '/home/jovyan/Data/Output/'
 else:
     raise RuntimeError('Check socket hostname, and add folder paths to src/settings.py file')
 
 
 DIR_UV = 'CMEMS_MED'
 
-PATTERN_U = '[2011-2015]*RFVL*'
-PATTERN_V = '[2011-2015]*RFVL*'
+PATTERN_U = '2018*MEDSEA*'
+PATTERN_V = '2018*MEDSEA*'
 VARS = {'U': 'uo',
         'V': 'vo'}
 DIMS = {'lat': 'lat',
