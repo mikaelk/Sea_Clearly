@@ -161,7 +161,7 @@ class Lagrangian_simulation:
         
         self.pset.execute(self.kernels,runtime=runtime,dt=dt,output_file=pfile,
                           verbose_progress=True,recovery={ErrorCode.ErrorOutOfBounds: delete_particle, ErrorCode.ErrorInterpolation: delete_particle})
-           
+        pfile.close() 
         
 if __name__ == "__main__":
     p = ArgumentParser(description="""Baseline script to run parcels simulations. Particles are released at date_start, and advected until day_end""")
