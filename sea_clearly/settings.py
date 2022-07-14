@@ -10,10 +10,10 @@ import socket
 if 'Kaandorp' in socket.gethostname():
     DIR_INPUT = '/Users/kaandorp/Data/SeaClearly/Input/'
     DIR_OUTPUT = '/Users/kaandorp/Data/SeaClearly/Output/'
-elif 'lorenz' or 'node0' in socket.gethostname():
+elif 'lorenz' in socket.gethostname() or 'node0' in socket.gethostname():
     DIR_INPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Input/'
     DIR_OUTPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Output/'
-elif 'jupyter' or 'node0' in socket.gethostname():
+elif 'jupyter' in socket.gethostname():
     DIR_INPUT = '/home/jovyan/Data/Input/'
     DIR_OUTPUT = '/home/jovyan/Data/Output/'
 else:
