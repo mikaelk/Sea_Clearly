@@ -14,8 +14,8 @@ elif 'lorenz' or 'node0' in socket.gethostname():
     DIR_INPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Input/'
     DIR_OUTPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Output/'
 elif 'jupyter' or 'node0' in socket.gethostname():
-    DIR_INPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Input/'
-    DIR_OUTPUT = '/storage/shared/oceanparcels/output_data/data_Mikael/SeaClearly/Output/'
+    DIR_INPUT = '/home/jovyan/Data/Input/'
+    DIR_OUTPUT = '/home/jovyan/Data/Output/'
 else:
     raise RuntimeError('Check socket hostname, and add folder paths to src/settings.py file')
 
