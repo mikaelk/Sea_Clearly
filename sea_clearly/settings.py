@@ -22,8 +22,8 @@ else:
 
 DIR_UV = 'CMEMS_MED'
 
-PATTERN_U = '2018*MEDSEA*'
-PATTERN_V = '2018*MEDSEA*'
+PATTERN_U = '[2011-2015]*RFVL*'
+PATTERN_V = '[2011-2015]*RFVL*'
 VARS = {'U': 'uo',
         'V': 'vo'}
 DIMS = {'lat': 'lat',
