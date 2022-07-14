@@ -1,9 +1,18 @@
 # Sea_Clearly
+Repo to run parcels simulations, and to postprocess the results, visualizing origins and destinations of marine litter
 
-Work in progress
+Step 1):
 
-To run the Lagrangian simulation, run for example:
+If no Lagrangian simulation data is available yet, perform the following steps, otherwise go to step 2)
 
-python sea_clearly/advect_particles.py -start_date '2015-01-01-12' -end_date '2015-12-31-12' 
+To run the Lagrangian simulations, run for example:
+python sea_clearly/main.py -date_start_release 2018-01-01 -date_end_release 2018-01-31 -n_days 300
 
-Define input/output folders in sea_clearly/settings.py, as well as the release scenario
+Make sure that the PATTERN_U and PATTERN_V variables are set correctly in the settings file, which point to the netcdf files containing the ocean current information. Also make sure DIR_INPUT and DIR_OUTPUT are set correctly.
+
+
+Step 2):
+
+To visualize the results, you can open the notebook sea_clearly/postprocess.ipynb
+
+Set the patterns to correspond to the output files that were created in step 1. A forward and a backward analysis+animation are available
