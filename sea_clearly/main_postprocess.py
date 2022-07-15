@@ -26,7 +26,7 @@ class postprocess:
     def __init__(self,settings,str_fwd,str_bwd):
         self.files_fwd = sorted(glob(os.path.join(settings.DIR_OUTPUT,str_fwd)))
         self.files_bwd = sorted(glob(os.path.join(settings.DIR_OUTPUT,str_bwd)))
-        self.land_mask = xr.load_dataset(os.path.join(settings.DIR_INPUT,settings.NAME_LANDMASK))
+        self.land_mask = xr.load_dataset(os.path.join(settings.DIR_INPUT,settings.DIR_UV,settings.NAME_LANDMASK))
         
         if len(self.files_fwd) == 0:
             print('No forwards run files found, forwards analysis will not work')
