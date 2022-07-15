@@ -1,5 +1,5 @@
 # Sea_Clearly
-Repo to run parcels simulations, and to postprocess the results, visualizing origins and destinations of marine litter
+Repo to run parcels simulations, and to postprocess the results, visualizing origins and destinations of marine pollution such as microplastics
 
 Step 1):
 
