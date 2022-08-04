@@ -135,8 +135,8 @@ class postprocess:
             data_processed[time_]['lons'] = self.data_refined['lon'].values[mask]
             data_processed[time_]['lats'] = self.data_refined['lat'].values[mask]
 
-    def set_figure(self,xlim=(-6,36.5),ylim=(30,46),background_map='mesh'):
-        self.fig = plt.figure(figsize=(14,4.5))
+    def set_figure(self,xlim=(-6,36.5),ylim=(30,46),background_map='mesh',figsize=(14,4.5)):
+        self.fig = plt.figure(figsize=figsize)
         gs = gridspec.GridSpec(nrows=1, ncols=2, width_ratios=[30,1])
         
         self.ax = self.fig.add_subplot(gs[0, 0],projection=ccrs.PlateCarree()) #plot with the map
@@ -164,7 +164,16 @@ class postprocess:
                                         transform=self.ax.transAxes, ha="center")
         self.fig.canvas.draw()        
         
+    def plot_aquaculture_farms(self):
+        farm_locs = pd.read_csv('../data/FinFishMedSeaFarmsInfo.csv')
         
+        mask_fish = farm_locs['FARM_TYPE'].str.contains('fish|Salmon|Seabass|Tuna').values
+        mask_other = ~mask_fish
+    
+        self.points_aq1, = self.ax.plot(farm_locs['LONGITUDE'].loc[mask_fish],farm_locs['LATITUDE'].loc[mask_fish],'ro',label='Finfish aquaculture farms')
+        self.points_aq2, = self.ax.plot(farm_locs['LONGITUDE'].loc[~mask_fish],farm_locs['LATITUDE'].loc[~mask_fish],'bo',label='Other aquaculture farms')
+        self.legend_farms = self.ax.legend()
+    
     def animate_particles(self,framedt=100):
 
         self.data_refined = self.data_refined.load()
@@ -193,28 +202,61 @@ class postprocess:
         anim = FuncAnimation(self.fig, animate, frames=len(self.data_refined['obs'])-1, interval=framedt, repeat=False, blit=True)
         return anim
     
-    def backwards_animate(self,dlon_analysis,dlat_analysis,framedt=100,background_map='mesh'):
+    def backwards_animate(self,dlon_analysis,dlat_analysis,framedt=100,background_map='mesh',show_farms=True,figsize=(14,4.5)):
         # format log-scale colorbars
         def fmt(x, pos):
             float_ = 10**float(x)
             return r'%4.4f'%float_
      
+    
         self.set_analysis_grids(dlon_analysis,dlat_analysis)
-        if background_map == 'mesh':
-            self.set_figure(background_map=background_map)
-        else:
-            self.set_figure(background_map=background_map,xlim=(-6,38.5),ylim=(29.5,47))
-            self.assign_country_to_coastline()
+        self.set_figure(background_map=background_map,figsize=figsize)
         self.title = None
+        
+        if show_farms:
+            self.plot_aquaculture_farms()
+            
         reset_plot = False
         pos = []
         clicks = []
-
+        
+        # self.update_fig_title('Click on any location to start the analysis (forward in time): Where does pollution end up?')
+        # plt.show(block=True)
+        self.assign_country_to_coastline()
+        # self.update_fig_title('Click on any location to start the analysis (forward in time): Where does pollution end up?')
+        # plt.show(block=True)    
+    
+#         self.set_analysis_grids(dlon_analysis,dlat_analysis)
+#         self.set_figure(background_map=background_map,figsize=figsize)
+#         # if background_map == 'mesh':
+#         #     pass
+#         #     # self.set_figure(background_map=background_map,figsize=figsize)
+#         # else:
+#             # self.set_figure(background_map=background_map,xlim=(-6,38.5),ylim=(29.5,47),figsize=figsize)
+#             self.assign_country_to_coastline()
+#         self.title = None
+            
+#         if show_farms:
+#             self.plot_aquaculture_farms()
+            
+        
+#         reset_plot = False
+#         pos = []
+#         clicks = []
+        
+#         self.update_fig_title('Click on any location to start the analysis (backward in time): Where does pollution come from?')
+#         plt.show(block=True)
+        
         def onclick(event):
             pos = [event.xdata,event.ydata]
             clicks.append(1)
 
             if len(clicks) == 1:
+                if show_farms:
+                    self.points_aq1.remove()
+                    self.points_aq2.remove()
+                    self.legend_farms.remove()
+                
                 self.pos_analysis = pos
                 self.ax.plot(self.pos_analysis[0],self.pos_analysis[1],'kx',markersize=14,zorder=3)
                 self.update_fig_title('Calculating particle statistics...')
@@ -371,25 +413,36 @@ class postprocess:
         self.ax.set_title('Overlap with Marine Protected Areas: %2.2f%%' % self.overlap_percent)
 
 
-    def forwards_animate(self,dlon_analysis,dlat_analysis,framedt=100,background_map='mesh'):
+    def forwards_animate(self,dlon_analysis,dlat_analysis,framedt=100,background_map='mesh',show_farms=True,figsize=(14,4.5)):
         # format log-scale colorbars
         def fmt(x, pos):
             float_ = 10**float(x)
             return r'%4.4f'%float_
      
         self.set_analysis_grids(dlon_analysis,dlat_analysis)
-        self.set_figure(background_map=background_map)
+        self.set_figure(background_map=background_map,figsize=figsize)
         self.title = None
         
+        if show_farms:
+            self.plot_aquaculture_farms()
+            
         reset_plot = False
         pos = []
         clicks = []
-
+        
+        self.update_fig_title('Click on any location to start the analysis (forward in time): Where does pollution end up?')
+        plt.show(block=True)
+        
         def onclick(event):
             pos = [event.xdata,event.ydata]
             clicks.append(1)
 
             if len(clicks) == 1:
+                if show_farms:
+                    self.points_aq1.remove()
+                    self.points_aq2.remove()
+                    self.legend_farms.remove()
+                    
                 self.pos_analysis = pos
                 self.ax.plot(self.pos_analysis[0],self.pos_analysis[1],'kx',markersize=14,zorder=3)
                 self.update_fig_title('Calculating particle statistics...')
