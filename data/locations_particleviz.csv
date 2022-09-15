@@ -1,0 +1,11 @@
+,SITE_ID,COUNTRY,AREA_NAME,LATITUDE,LONGITUDE,POINT_INFO,SPECIES_DE,FARM_TYPE,COAST_DIST,POSITION_C,STATUS,PRODUCTION,POINT_DEFI,PRODUCTI_1,PURPOSE,OWNER_NAME
+,BG_0025,Bulgaria,n.a.,43.372527900000080,28.412291795000044,Polygon centroid,Mussels,Mussels,"1661.0",At sea,n.a.,n.a.,Farm,n.a.,n.a.,n.a.
+,FR_0220,France,Anse de Carteau Sud,43.380761235000080,4.882214865000038,Polygon centroid,n.a.,n.a.,"1533.69424143",At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+,FR_0233,France,Lotissement conchylicole de Sete-Marseillan,43.303369343000043,3.604156587000034,Polygon centroid,n.a.,n.a.,"3983.16896336",At sea,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+,FR_0222,France,Etang de Salonique,43.513477868000059,4.142679775000034,Polygon centroid,n.a.,n.a.,"403.653362191",Within the coastline,n.a.,n.a.,Production area,n.a.,n.a.,n.a.
+,IT_0066,Italy,n.a.,39.209356538000065,9.096354173000066,Original,n.a.,n.a.,"268.98209389222865",At sea,n.a.,n.a.,Farm,n.a.,n.a.,Lo Squalo Scrl
+,IT_0018,Italy,n.a.,38.262587064000058,15.622483656000043,Original,n.a.,n.a.,"356.81008367007666",Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,SACOM Srl
+,IT_0117,Italy,n.a.,40.825678554000035,14.055351365000035,Original,n.a.,n.a.,"649.4862251513578",Within the coastline,n.a.,n.a.,Farm,n.a.,n.a.,Ittica Lago Fusaro Srl
+,IT_0041,Italy,n.a.,45.707127405000051,13.219279879000055,Original,n.a.,n.a.,"720.7391848424429",At sea,n.a.,n.a.,Farm,n.a.,n.a.,Maricoltura Triestina Srl
+,GR_0025,Greece,n.a.,40.866666666000071,24.676944444000071,Original,Mussels,Mussels,"617.06398",At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,BELEZI DIMITRA
+,GR_0134,Greece,n.a.,39.561111111000059,20.131111111000052,Original,Mussels,Mussels,"1351.83181",At sea,Active,n.a.,Farm,"Grow out for human consumption, Nursery",n.a.,SKENTOS ARISTEIDIS
